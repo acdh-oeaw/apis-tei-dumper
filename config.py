@@ -30,9 +30,9 @@ HTTP_HEADERS = {
 }
 
 ENT_DICT = {
-    # 'person': 'person',
-    # 'place': 'place',
-    # 'work': 'bibl',
+    'person': 'person',
+    'place': 'place',
+    'work': 'bibl',
     'institution': 'org'
 }
 if os.environ.get('LIMIT'):
@@ -84,7 +84,6 @@ def get_tei_endpoint(apis_entity_name, entity_id):
 
 
 def get_export_filepath(apis_entity_name):
-    os.makedirs(EXPORT_DIR, exist_ok=True)
     return EXPORT_FILEPATH.format(
         EXPORT_DIR,
         ENT_DICT[apis_entity_name]

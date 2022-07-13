@@ -1,13 +1,15 @@
 """Script entry point."""
 import asyncio
+import os
 import time
 
-from config import ENT_DICT
+from config import ENT_DICT, EXPORT_DIR
 from apis_tei_dumper import main
 from time import perf_counter as timer
 from logger import LOGGER
 
 if __name__ == "__main__":
+    os.makedirs(EXPORT_DIR, exist_ok=True)
     start_time = timer()
     for key, _ in ENT_DICT.items():
         try:
