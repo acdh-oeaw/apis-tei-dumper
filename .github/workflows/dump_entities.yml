@@ -1,7 +1,9 @@
 name: Dump Entities
 
 on:
-  workflow_dispatch
+  workflow_dispatch:
+  schedule:
+    - cron:  '39 1 * * *'
 
 jobs:
   download:
