@@ -5,7 +5,7 @@ from time import perf_counter as timer
 
 import time
 from logger import LOGGER
-from config import HTTP_HEADERS, get_export_filepath
+from config import HTTP_HEADERS, get_export_filepath, get_tei_header, get_tei_closer
 
 from .utils import get_urls
 
@@ -24,8 +24,7 @@ async def main(apis_entity_name):
     EXPORT_FILEPATH = get_export_filepath(apis_entity_name)
 
     with open(EXPORT_FILEPATH, 'w', encoding="utf-8") as f:
-        f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
-        f.write('<TEI xmlns="http://www.tei-c.org/ns/1.0">\n')
+        f.write(get_tei_header(apis_entity_name))
 
         async with ClientSession(headers=HTTP_HEADERS) as session:
             total_count = len(urls_to_fetch)
@@ -40,7 +39,7 @@ async def main(apis_entity_name):
             all_entities = await asyncio.gather(*tasks)
             for ent in all_entities:
                 f.write(f"{ent}\n")
-            f.write('</TEI>')
+            f.write(get_tei_closer(apis_entity_name))
     LOGGER.success(
         f"Executed {__name__} in {time.perf_counter() - start_time:0.2f} seconds."
     )
