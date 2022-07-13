@@ -1,0 +1,1255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+              <title>listplace.xml</title>
+           </titleStmt>
+           <publicationStmt>
+              <p>Publication Information</p>
+           </publicationStmt>
+           <sourceDesc>
+              <p>Information about the source</p>
+           </sourceDesc>
+        </fileDesc>
+       <revisionDesc>
+          <change when-iso="2022-07-13">serialized</change>
+       </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+           <p>Some text here.</p>
+           <listPlace>
+<place xml:id="place__1">
+  <placeName>Jung-Wiener Theater zum Lieben Augustin</placeName>
+  <desc type="entity_type">Kabarett (K.KBR)</desc>
+  <desc type="entity_type_id">2</desc>
+<location type="coords">
+  <geo>48,19941 16,3642</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__56">VI., Mariahilf</placeName>
+  <geo>48,19522 16,35032</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__37">Theater an der Wien</placeName>
+  <geo>48,19941 16,3642</geo>
+</location>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb1</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/1</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb1</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+<note type="apis_dates">
+<date when-iso="1901-01-01">1901</date>
+</note>
+</place>
+
+<place xml:id="place__2">
+  <placeName>Konservatorium der Gesellschaft der Musikfreunde</placeName>
+  <placeName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Universität_für_Musik_und_darstellende_Kunst_Wien</placeName>
+  <desc type="entity_type">Konservatorium (K.KON)</desc>
+  <desc type="entity_type_id">3</desc>
+<location type="coords">
+  <geo>48,210333 16,37084</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__51">I., Innere Stadt</placeName>
+  <geo>48,20769 16,37049</geo>
+</location>
+  <idno type="URL" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Konservatorium_(der_Gesellschaft_der_Musikfreunde)</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+<note type="apis_dates">
+<date when-iso="1909-07-02" notAfter-iso="1909-12-31">1909</date>
+</note>
+</place>
+
+<place xml:id="place__3">
+  <placeName>Deutsches Theater Berlin</placeName>
+  <desc type="entity_type">Theater (K.THE)</desc>
+  <desc type="entity_type_id">4</desc>
+<location type="coords">
+  <geo>52,524444 13,382222</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__168">Berlin</placeName>
+  <geo>52,52437 13,41053</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__307">Schumannstraße</placeName>
+  <geo>52,52402 13,38186</geo>
+</location>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q703955</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/3</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb3</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+</place>
+
+<place xml:id="place__4">
+  <placeName>Bösendorfer-Saal</placeName>
+  <placeName type="uri_wikipedia">https://de.wikipedia.org/wiki/Bösendorfer-Saal</placeName>
+  <desc type="entity_type">Veranstaltungsgebäude (K.VSB)</desc>
+  <desc type="entity_type_id">5</desc>
+<location type="coords">
+  <geo>48,209167 16,366111</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__51">I., Innere Stadt</placeName>
+  <geo>48,20769 16,37049</geo>
+</location>
+  <idno type="URL" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Bösendorfer-Konzertsaal</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb4</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/4</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb4</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+<note type="apis_dates">
+<date from-iso="1872-01-01" to-iso="1872-12-31">1872  – 1913-05-02</date>
+</note>
+</place>
+
+<place xml:id="place__5">
+  <placeName>Gemäldegalerie Alte Meister</placeName>
+  <placeName type="uri_wikipedia">https://de.wikipedia.org/wiki/Gem%C3%A4ldegalerie_Alte_Meister</placeName>
+  <desc type="entity_type">Gallerie (K.GLR)</desc>
+  <desc type="entity_type_id">6</desc>
+<location type="coords">
+  <geo>51,053528 13,734861</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__866">Dresden</placeName>
+  <geo>51,0833 13,7666</geo>
+</location>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q4890</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb5</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/5</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb5</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+</place>
+
+<place xml:id="place__6">
+  <placeName>Kuffner Bierbrauerei</placeName>
+  <placeName type="uri_wikipedia">https://de.wikipedia.org/wiki/Ottakringer_Brauerei</placeName>
+  <placeName type="legacy-uri-merge">https://www.ottakringerbrauerei.at/</placeName>
+  <desc type="entity_type">Bierhaus (K.BIR)</desc>
+  <desc type="entity_type_id">7</desc>
+<location type="coords">
+  <geo>48,2124 16,3236</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__66">XVI., Ottakring</placeName>
+  <geo>48,21667 16,3</geo>
+</location>
+  <idno type="URL" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Ottakringer_Brauerei</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb6</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/6</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb6</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+<note type="apis_dates">
+<date notBefore-iso="1837-01-01" when-iso="1837-07-02">1837</date>
+</note>
+</place>
+
+<place xml:id="place__7">
+  <placeName>Secession</placeName>
+  <placeName type="uri_wikipedia">https://de.wikipedia.org/wiki/Wiener_Secessionsgebäude</placeName>
+  <desc type="entity_type">Museum (K.MUS)</desc>
+  <desc type="entity_type_id">8</desc>
+<location type="coords">
+  <geo>48,200364 16,365508</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__51">I., Innere Stadt</placeName>
+  <geo>48,20769 16,37049</geo>
+</location>
+  <idno type="URL" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Secession_(Gebäude)</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb7</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/7</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb7</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+</place>
+
+<place xml:id="place__8">
+  <placeName>Prater</placeName>
+  <placeName type="uri_wikipedia">https://de.wikipedia.org/wiki/Wiener_Prater</placeName>
+  <desc type="entity_type">Grünanlage (K.GRN)</desc>
+  <desc type="entity_type_id">9</desc>
+<location type="coords">
+  <geo>48,194558 16,430054</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__52">II., Leopoldstadt</placeName>
+  <geo>48,21667 16,4</geo>
+</location>
+  <idno type="URL" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Prater</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb8</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/8</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb8</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+</place>
+
+<place xml:id="place__9">
+  <placeName>Königlich Bayerische Hoftheater</placeName>
+  <desc type="entity_type">Theater (K.THE)</desc>
+  <desc type="entity_type_id">4</desc>
+<location type="coords">
+  <geo>48,139944 11,578786</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__45258">München</placeName>
+  <geo>48,13743 11,57549</geo>
+</location>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q812446</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb9</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/9</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+</place>
+
+<place xml:id="place__10">
+  <placeName>Alexandrinski-Theater</placeName>
+  <placeName type="uri_wikipedia">https://de.wikipedia.org/wiki/Alexandrinski-Theater</placeName>
+  <desc type="entity_type">Theater (K.THE)</desc>
+  <desc type="entity_type_id">4</desc>
+<location type="coords">
+  <geo>59,9318 30,3362</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__433">Sankt Petersburg</placeName>
+  <geo>59,93863 30,31413</geo>
+</location>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1186567</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/10</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+<note type="apis_dates">
+<date when-iso="1832-08-31">31.8.1832</date>
+</note>
+</place>
+
+<place xml:id="place__11">
+  <placeName>Münchner Schauspielhaus</placeName>
+  <placeName type="uri_wikipedia">https://de.wikipedia.org/wiki/M%C3%BCnchner_Kammerspiele</placeName>
+  <desc type="entity_type">Theater (K.THE)</desc>
+  <desc type="entity_type_id">4</desc>
+<location type="coords">
+  <geo>48,138122 11,582478</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__45258">München</placeName>
+  <geo>48,13743 11,57549</geo>
+</location>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q520185</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/11</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb11</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+<note type="apis_dates">
+<date notBefore-iso="1901-01-01" when-iso="1901-07-02">1901</date>
+</note>
+</place>
+
+<place xml:id="place__12">
+  <placeName>Kammerspiele Berlin</placeName>
+  <desc type="entity_type">Theater (K.THE)</desc>
+  <desc type="entity_type_id">4</desc>
+<location type="coords">
+  <geo>52,524444 13,382222</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__168">Berlin</placeName>
+  <geo>52,52437 13,41053</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__3">Deutsches Theater Berlin</placeName>
+  <geo>52,524444 13,382222</geo>
+</location>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q45772100</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb12</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/12</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb12</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+<note type="apis_dates">
+<date notBefore-iso="1906-01-01" when-iso="1906-07-02">1906</date>
+</note>
+</place>
+
+<place xml:id="place__13">
+  <placeName>Hebbel-Theater</placeName>
+  <placeName type="uri_wikipedia">https://de.wikipedia.org/wiki/Hebbel-Theater</placeName>
+  <placeName type="fruherer_ortsname">Königgrätzer Theater</placeName>
+  <placeName type="loschen">https://de.wikipedia.org/wiki/Hebbel-Theater</placeName>
+  <placeName type="fruherer_ortsname">Theater in der Königgrätzer Straße</placeName>
+  <placeName type="legacy-name-merge">Hebbel Theater</placeName>
+  <desc type="entity_type">Theater (K.THE)</desc>
+  <desc type="entity_type_id">4</desc>
+<location type="coords">
+  <geo>52,500042 13,387328</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__168">Berlin</placeName>
+  <geo>52,52437 13,41053</geo>
+</location>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1592692</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb246</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb13</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/13</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/246</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb13</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+<note type="apis_dates">
+<date notBefore-iso="1908-01-01" when-iso="1908-07-01">1908</date>
+</note>
+</place>
+
+<place xml:id="place__14">
+  <placeName>Burgtheater</placeName>
+  <desc type="entity_type">Theater (K.THE)</desc>
+  <desc type="entity_type_id">4</desc>
+<location type="coords">
+  <geo>48,210333 16,361139</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__51">I., Innere Stadt</placeName>
+  <geo>48,20769 16,37049</geo>
+</location>
+  <idno type="URL" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Burgtheater+%28Gebäude</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb14</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/14</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb14</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+</place>
+
+<place xml:id="place__15">
+  <placeName>Oper</placeName>
+  <placeName type="none">Operntheater</placeName>
+  <placeName type="none">Staatsoper</placeName>
+  <placeName type="uri_wikipedia">https://de.wikipedia.org/wiki/Wiener_Staatsoper</placeName>
+  <desc type="entity_type">Oper (K.OPR)</desc>
+  <desc type="entity_type_id">10</desc>
+<location type="coords">
+  <geo>48,203 16,3691</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__51">I., Innere Stadt</placeName>
+  <geo>48,20769 16,37049</geo>
+</location>
+  <idno type="URL" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Staatsoper</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb15</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/15</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb15</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+</place>
+
+<place xml:id="place__16">
+  <placeName>De Keysers Royal Hotel</placeName>
+  <placeName type="uri_wikipedia">https://en.wikipedia.org/wiki/De_Keyser%27s_Royal_Hotel</placeName>
+  <desc type="entity_type">Hotel (K.HTL)</desc>
+  <desc type="entity_type_id">12</desc>
+<location type="coords">
+  <geo>51,511794 -0,105758</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__224">London</placeName>
+  <geo>51,50853 -0,12574</geo>
+</location>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q28803116</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb16</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/16</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb16</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+<note type="apis_dates">
+<date from-iso="1845-01-01" to-iso="1845-12-31">1845  – 1916</date>
+</note>
+</place>
+
+<place xml:id="place__17">
+  <placeName>Steiermark</placeName>
+  <placeName type="uri_wikipedia">https://de.wikipedia.org/wiki/Steiermark</placeName>
+  <desc type="entity_type">Teil eines Landes (A.LNDX)</desc>
+  <desc type="entity_type_id">13</desc>
+<location type="coords">
+  <geo>47,38 15,7925</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__41240">Österreich</placeName>
+  <geo>47,33333 13,33333</geo>
+</location>
+  <idno type="URL" subtype="geonames">http://sws.geonames.org/2764581/</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb17</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/17</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb17</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+</place>
+
+<place xml:id="place__18">
+  <placeName>Lessing-Theater</placeName>
+  <placeName type="uri_wikipedia">https://de.wikipedia.org/wiki/Lessingtheater_(Berlin)</placeName>
+  <desc type="entity_type">Theater (K.THE)</desc>
+  <desc type="entity_type_id">4</desc>
+<location type="coords">
+  <geo>52,5225 13,376389</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__168">Berlin</placeName>
+  <geo>52,52437 13,41053</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__34999">Kapelle-Ufer</placeName>
+  <geo>52,52315 13,374789</geo>
+</location>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q261757</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb18</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/18</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb18</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+</place>
+
+<place xml:id="place__19">
+  <placeName>Etablissement Ronacher</placeName>
+  <placeName type="uri_wikipedia">https://de.wikipedia.org/wiki/Ronacher</placeName>
+  <desc type="entity_type">Theater (K.THE)</desc>
+  <desc type="entity_type_id">4</desc>
+<location type="coords">
+  <geo>48,205139 16,375</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__51">I., Innere Stadt</placeName>
+  <geo>48,20769 16,37049</geo>
+</location>
+  <idno type="URL" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Ronacher</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb19</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/19</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb19</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+<note type="apis_dates">
+<date notBefore-iso="1871-01-01" when-iso="1871-07-02">1871</date>
+</note>
+</place>
+
+<place xml:id="place__20">
+  <placeName>Volkstheater</placeName>
+  <placeName type="uri_wikipedia">https://de.wikipedia.org/wiki/Volkstheater_(Wien)</placeName>
+  <placeName type="namensvariante">Deutsches Volkstheater</placeName>
+  <desc type="entity_type">Theater (K.THE)</desc>
+  <desc type="entity_type_id">4</desc>
+<location type="coords">
+  <geo>48,205142 16,3566</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__57">VII., Neubau</placeName>
+  <geo>48,2 16,35</geo>
+</location>
+  <idno type="URL" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Volkstheater</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb20</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/20</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb20</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb20</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place>
+
+<place xml:id="place__21">
+  <placeName>Künstlerhaus</placeName>
+  <placeName type="uri_wikipedia">https://de.wikipedia.org/wiki/Künstlerhaus_Wien</placeName>
+  <desc type="entity_type">Museum (K.MUS)</desc>
+  <desc type="entity_type_id">8</desc>
+<location type="coords">
+  <geo>48,200556 16,371667</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__51">I., Innere Stadt</placeName>
+  <geo>48,20769 16,37049</geo>
+</location>
+  <idno type="URL" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Künstlerhaus</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb21</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/21</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb21</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+<note type="apis_dates">
+<date notBefore-iso="1868-01-01" when-iso="1868-07-01">1868</date>
+</note>
+</place>
+
+<place xml:id="place__22">
+  <placeName>Königgrätz</placeName>
+  <placeName type="none">Hradec Králové</placeName>
+  <desc type="entity_type">https://www.geonames.org/ontology#P.PPLA</desc>
+  <desc type="entity_type_id">1415</desc>
+<location type="coords">
+  <geo>50,20923 15,83277</geo>
+</location>
+  <idno type="URL" subtype="geonames">http://sws.geonames.org/3074967/</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb22</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/22</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb22</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place>
+
+<place xml:id="place__23">
+  <placeName>Akademische Hochschule für Musik</placeName>
+  <desc type="entity_type">Universität (K.UNI)</desc>
+  <desc type="entity_type_id">15</desc>
+<location type="coords">
+  <geo>52,5093 13,32875</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__168">Berlin</placeName>
+  <geo>52,52437 13,41053</geo>
+</location>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q55038</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb23</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/23</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+<note type="apis_dates">
+<date notBefore-iso="1868-01-01" when-iso="1868-07-01">1868</date>
+</note>
+</place>
+
+<place xml:id="place__24">
+  <placeName>Ministerium für Unterricht</placeName>
+  <desc type="entity_type">Ministerium (K.MIN)</desc>
+  <desc type="entity_type_id">16</desc>
+<location type="coords">
+  <geo>48,20998 16,36359</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__51">I., Innere Stadt</placeName>
+  <geo>48,20769 16,37049</geo>
+</location>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb24</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/24</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb24</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+</place>
+
+<place xml:id="place__25">
+  <placeName>Hochschule und Akademie für Musik und Darstellende Kunst</placeName>
+  <desc type="entity_type">Universität (K.UNI)</desc>
+  <desc type="entity_type_id">15</desc>
+<location type="coords">
+  <geo>48,201667 16,385</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__51">I., Innere Stadt</placeName>
+  <geo>48,20769 16,37049</geo>
+</location>
+  <idno type="URL" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Universität_für_Musik_und_darstellende_Kunst_Wien</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb25</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/25</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb25</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+</place>
+
+<place xml:id="place__27">
+  <placeName>Ständetheater</placeName>
+  <placeName type="uri_wikipedia">https://de.wikipedia.org/wiki/Ständetheater</placeName>
+  <placeName type="namensvariante">Königlich Deutsches Landestheater</placeName>
+  <placeName type="namensvariante">Deutsches Landestheater</placeName>
+  <desc type="entity_type">Theater (K.THE)</desc>
+  <desc type="entity_type_id">4</desc>
+<location type="coords">
+  <geo>50,086122 14,423933</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__652">Prag</placeName>
+  <geo>50,08333 14,46667</geo>
+</location>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q1886083</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb27</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/27</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+<note type="apis_dates">
+<date notBefore-iso="1783-01-01" when-iso="1783-07-02">1783</date>
+</note>
+</place>
+
+<place xml:id="place__28">
+  <placeName>Volksoper</placeName>
+  <placeName type="namensvariante">Kaiser-Jubiläums-Stadttheater</placeName>
+  <placeName type="namensvariante">Jubiläumstheater</placeName>
+  <placeName type="uri_wikipedia">https://de.wikipedia.org/wiki/Volksoper_Wien</placeName>
+  <desc type="entity_type">Theater (K.THE)</desc>
+  <desc type="entity_type_id">4</desc>
+<location type="coords">
+  <geo>48,224472 16,350361</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__59">IX., Alsergrund</placeName>
+  <geo>48,22387 16,35641</geo>
+</location>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/28</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb28</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+<note type="apis_dates">
+<date notBefore-iso="1898-01-01" when-iso="1898-07-02">1898</date>
+</note>
+</place>
+
+<place xml:id="place__29">
+  <placeName>Hotel Sacher</placeName>
+  <desc type="entity_type">Hotel (K.HTL)</desc>
+  <desc type="entity_type_id">12</desc>
+<location type="coords">
+  <geo>48,203889 16,369444</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__51">I., Innere Stadt</placeName>
+  <geo>48,20769 16,37049</geo>
+</location>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+<note type="apis_dates">
+<date when-iso="1876-01-01">1876</date>
+</note>
+</place>
+
+<place xml:id="place__30">
+  <placeName>Salzburg</placeName>
+  <placeName type="alternative-name">Iuvavum</placeName>
+  <placeName type="legacy-name-merge">Salzburg</placeName>
+  <placeName type="legacy-uri-merge">http://d-nb.info/gnd/4076982-3</placeName>
+  <desc type="entity_type">Besiedelter Ort (A.BSO)</desc>
+  <desc type="entity_type_id">14</desc>
+<location type="coords">
+  <geo>47,80067 13,04532</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__697">Salzburg (Land)</placeName>
+  <geo>47,41667 13,25</geo>
+</location>
+  <idno type="URL" subtype="geonames">http://sws.geonames.org/2766818/</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb30</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/30</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb30</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb30</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place>
+
+<place xml:id="place__31">
+  <placeName>Hellbrunn</placeName>
+  <placeName type="uri_wikipedia">https://de.wikipedia.org/wiki/Hellbrunn</placeName>
+  <desc type="entity_type">Teil eines besiedelten Ortes (A.BSOX)</desc>
+  <desc type="entity_type_id">18</desc>
+<location type="coords">
+  <geo>47,762222 13,060833</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__30">Salzburg</placeName>
+  <geo>47,80067 13,04532</geo>
+</location>
+  <idno type="URL" subtype="geonames">http://sws.geonames.org/2776533/</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/31</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb31</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+</place>
+
+<place xml:id="place__32">
+  <placeName>Schlosspark Hellbrunn</placeName>
+  <placeName type="uri_wikipedia">https://de.wikipedia.org/wiki/Schloss_Hellbrunn</placeName>
+  <desc type="entity_type">Park (K.PRK)</desc>
+  <desc type="entity_type_id">19</desc>
+<location type="coords">
+  <geo>47,762222 13,060833</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__30">Salzburg</placeName>
+  <geo>47,80067 13,04532</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__31">Hellbrunn</placeName>
+  <geo>47,762222 13,060833</geo>
+</location>
+  <idno type="URL" subtype="wikidata">https://www.wikidata.org/wiki/Q115593</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb32</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/32</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+</place>
+
+<place xml:id="place__33">
+  <placeName>St. Gilgen</placeName>
+  <placeName type="legacy-name-merge">Sankt Gilgen</placeName>
+  <placeName type="legacy-uri-merge">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/24915/</placeName>
+  <placeName type="legacy-name-merge">Sankt Gilgen</placeName>
+  <desc type="entity_type">Besiedelter Ort (A.BSO)</desc>
+  <desc type="entity_type_id">14</desc>
+<location type="coords">
+  <geo>47,76667 13,36667</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__429">Salzkammergut</placeName>
+  <geo>47,75 13,5</geo>
+</location>
+  <idno type="URL" subtype="geonames">http://sws.geonames.org/2766683/</idno>
+  <idno type="URL">http://sws.geonames.org/7872214/</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb33</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/33</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb33</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+</place>
+
+<place xml:id="place__34">
+  <placeName>Café Griensteidl</placeName>
+  <desc type="entity_type">Kaffeehaus (K.KAF)</desc>
+  <desc type="entity_type_id">20</desc>
+<location type="coords">
+  <geo>48,208258 16,366111</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__51">I., Innere Stadt</placeName>
+  <geo>48,20769 16,37049</geo>
+</location>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb34</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/34</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb34</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+</place>
+
+<place xml:id="place__35">
+  <placeName>Rudolfsplatz</placeName>
+  <desc type="entity_type">Platz (K.PLT)</desc>
+  <desc type="entity_type_id">21</desc>
+<location type="coords">
+  <geo>48,21429 16,37192</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__51">I., Innere Stadt</placeName>
+  <geo>48,20769 16,37049</geo>
+</location>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb35</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb35</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place>
+
+<place xml:id="place__36">
+  <placeName>Zum grünen Anker</placeName>
+  <desc type="entity_type">Lokal (K.LKL)</desc>
+  <desc type="entity_type_id">22</desc>
+<location type="coords">
+  <geo>48,20727 16,37502</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__48840">Grünangergasse</placeName>
+  <geo>48,20727 16,37502</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__51">I., Innere Stadt</placeName>
+  <geo>48,20769 16,37049</geo>
+</location>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb36</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/36</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+</place>
+
+<place xml:id="place__37">
+  <placeName>Theater an der Wien</placeName>
+  <desc type="entity_type">Theater (K.THE)</desc>
+  <desc type="entity_type_id">4</desc>
+<location type="coords">
+  <geo>48,19941 16,3642</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__56">VI., Mariahilf</placeName>
+  <geo>48,19522 16,35032</geo>
+</location>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb37</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb37</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+</place>
+
+<place xml:id="place__38">
+  <placeName>Zur goldenen Glocke</placeName>
+  <desc type="entity_type">Lokal (K.LKL)</desc>
+  <desc type="entity_type_id">22</desc>
+<location type="coords">
+  <geo>48,19887 16,34958</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__57">VII., Neubau</placeName>
+  <geo>48,2 16,35</geo>
+</location>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb38</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/38</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+</place>
+
+<place xml:id="place__39">
+  <placeName>Volkstheater in Rudolphsheim</placeName>
+  <desc type="entity_type">Theater (K.THE)</desc>
+  <desc type="entity_type_id">4</desc>
+<location type="coords">
+  <geo>48,19031 16,32475</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__65">XV., Rudolfsheim-Fünfhaus</placeName>
+  <geo>48,19625 16,32749</geo>
+</location>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb39</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/39</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb39</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+</place>
+
+<place xml:id="place__40">
+  <placeName>Theater in der Josefstadt</placeName>
+  <placeName type="uri_wikipedia">https://de.wikipedia.org/wiki/Theater_in_der_Josefstadt</placeName>
+  <desc type="entity_type">Theater (K.THE)</desc>
+  <desc type="entity_type_id">4</desc>
+<location type="coords">
+  <geo>48,209583 16,351111</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__58">VIII., Josefstadt</placeName>
+  <geo>48,21126 16,34706</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__51915">Josefstädter Straße</placeName>
+  <geo>48,20995865037859 16,347448769410484</geo>
+</location>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb40</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/40</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb40</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+<note type="apis_dates">
+<date when-iso="1788-01-01">1788</date>
+</note>
+</place>
+
+<place xml:id="place__41">
+  <placeName>Allgemeine Poliklinik</placeName>
+  <placeName type="uri_wikipedia">https://de.wikipedia.org/wiki/Allgemeine_Poliklinik_Wien</placeName>
+  <placeName type="legacy-name-merge">Poliklinik</placeName>
+  <placeName type="legacy-uri-merge">Wiener_Allgemeine_Poliklinik</placeName>
+  <placeName type="legacy-uri-merge">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb293</placeName>
+  <desc type="entity_type">Krankenhaus (K.KKH)</desc>
+  <desc type="entity_type_id">23</desc>
+<location type="coords">
+  <geo>48,216139 16,349167</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__59">IX., Alsergrund</placeName>
+  <geo>48,22387 16,35641</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__311">Mariannengasse</placeName>
+  <geo>48,216168226614 16,347786493633</geo>
+</location>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb41</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/41</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+</place>
+
+<place xml:id="place__42">
+  <placeName>Leidingers Restauration</placeName>
+  <desc type="entity_type">Lokal (K.LKL)</desc>
+  <desc type="entity_type_id">22</desc>
+<location type="coords">
+  <geo>48,20138 16,36946</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__51">I., Innere Stadt</placeName>
+  <geo>48,20769 16,37049</geo>
+</location>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb42</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/42</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+<note type="apis_dates">
+<date when-iso="1899-07-02" notAfter-iso="1899-12-31">1899</date>
+</note>
+</place>
+
+<place xml:id="place__43">
+  <placeName>Café Imperial</placeName>
+  <placeName type="uri_wikipedia">https://de.wikipedia.org/wiki/Hotel_Imperial_(Wien)</placeName>
+  <placeName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Café_Imperial</placeName>
+  <desc type="entity_type">Kaffeehaus (K.KAF)</desc>
+  <desc type="entity_type_id">20</desc>
+<location type="coords">
+  <geo>48,20122 16,37312</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__51">I., Innere Stadt</placeName>
+  <geo>48,20769 16,37049</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__501">Kärntnerring</placeName>
+  <geo>48,201874800905 16,371985203093</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__126">Hotel Imperial</placeName>
+  <geo>48,20122 16,37312</geo>
+</location>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb43</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/43</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb43</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb43</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+<note type="apis_dates">
+<date notBefore-iso="1873-01-01" when-iso="1873-07-02">1873</date>
+</note>
+</place>
+
+<place xml:id="place__44">
+  <placeName>Riedhof</placeName>
+  <placeName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Riedhof</placeName>
+  <desc type="entity_type">Lokal (K.LKL)</desc>
+  <desc type="entity_type_id">22</desc>
+<location type="coords">
+  <geo>48,2134031 16,3538456</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__58">VIII., Josefstadt</placeName>
+  <geo>48,21126 16,34706</geo>
+</location>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb44</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/44</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb44</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+</place>
+
+<place xml:id="place__45">
+  <placeName>Fürstlich Schwarzenberg’sche Meierei</placeName>
+  <placeName type="loschen">Fürstl. Schwarzenberg'sche Meierei</placeName>
+  <placeName type="namensvariante">Schwarzenbergmeierei</placeName>
+  <desc type="entity_type">Lokal (K.LKL)</desc>
+  <desc type="entity_type_id">22</desc>
+<location type="coords">
+  <geo>48,23477 16,28989</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__67">XVII., Hernals</placeName>
+  <geo>48,22707 16,31006</geo>
+</location>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb45</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/45</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+</place>
+
+<place xml:id="place__46">
+  <placeName>Café Kremser</placeName>
+  <desc type="entity_type">Kaffeehaus (K.KAF)</desc>
+  <desc type="entity_type_id">20</desc>
+<location type="coords">
+  <geo>48,2017407 16,3709701</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__51">I., Innere Stadt</placeName>
+  <geo>48,20769 16,37049</geo>
+</location>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb46</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/46</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb46</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+</place>
+
+<place xml:id="place__47">
+  <placeName>Schweizerhaus</placeName>
+  <placeName type="uri_wikipedia">https://de.wikipedia.org/wiki/Schweizerhaus_(Wien)</placeName>
+  <desc type="entity_type">Lokal (K.LKL)</desc>
+  <desc type="entity_type_id">22</desc>
+<location type="coords">
+  <geo>48,213944 16,401694</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__52">II., Leopoldstadt</placeName>
+  <geo>48,21667 16,4</geo>
+</location>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb47</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/47</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+</place>
+
+<place xml:id="place__48">
+  <placeName>Café Union</placeName>
+  <desc type="entity_type">Kaffeehaus (K.KAF)</desc>
+  <desc type="entity_type_id">20</desc>
+<location type="coords">
+  <geo>48,20325 16,37596</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__51">I., Innere Stadt</placeName>
+  <geo>48,20769 16,37049</geo>
+</location>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb48</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/48</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb48</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+</place>
+
+<place xml:id="place__49">
+  <placeName>Café Pfob</placeName>
+  <placeName type="fruherer_ortsname">Café Heydner</placeName>
+  <placeName type="fruherer_ortsname">Café Schrangl</placeName>
+  <desc type="entity_type">Kaffeehaus (K.KAF)</desc>
+  <desc type="entity_type_id">20</desc>
+<location type="coords">
+  <geo>48,208619 16,370291</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__51">I., Innere Stadt</placeName>
+  <geo>48,20769 16,37049</geo>
+</location>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb49</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/49</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb49</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+</listBibl>
+</place>
+
+<place xml:id="place__50">
+  <placeName>Wien</placeName>
+  <placeName type="alternative-name">K.K. Reichshaupt- und Residenzstadt Wien</placeName>
+  <placeName type="legacy-name-merge">Wien</placeName>
+  <placeName type="legacy-uri-merge">http://d-nb.info/gnd/4066009-6</placeName>
+  <placeName type="alternative-name">Bécs</placeName>
+  <placeName type="legacy-name-merge">Wien</placeName>
+  <placeName type="legacy-uri-merge">http://d-nb.info/gnd/4066009-6</placeName>
+  <placeName type="alternative-name">Land Wien</placeName>
+  <placeName type="legacy-name-merge">Wien</placeName>
+  <placeName type="legacy-uri-merge">http://d-nb.info/gnd/4066009-6</placeName>
+  <placeName type="alternative-name">Vídeň</placeName>
+  <placeName type="legacy-name-merge">Wien</placeName>
+  <placeName type="legacy-uri-merge">http://d-nb.info/gnd/4066009-6</placeName>
+  <placeName type="alternative-name">Wenia</placeName>
+  <placeName type="legacy-name-merge">Wien</placeName>
+  <placeName type="legacy-uri-merge">http://d-nb.info/gnd/4066009-6</placeName>
+  <placeName type="alternative-name">Beč</placeName>
+  <placeName type="legacy-name-merge">Wien</placeName>
+  <placeName type="legacy-uri-merge">http://d-nb.info/gnd/4066009-6</placeName>
+  <placeName type="alternative-name">Vindobona (Wien)</placeName>
+  <placeName type="legacy-name-merge">Wien</placeName>
+  <placeName type="legacy-name-merge">Vindobona</placeName>
+  <placeName type="alternative-name">Vienna</placeName>
+  <placeName type="legacy-name-merge">Wien?</placeName>
+  <placeName type="alternative-name">Vienna</placeName>
+  <placeName type="legacy-name-merge">Vienna</placeName>
+  <placeName type="legacy-name-merge">Vienna</placeName>
+  <desc type="entity_type">Besiedelter Ort (A.BSO)</desc>
+  <desc type="entity_type_id">14</desc>
+<location type="coords">
+  <geo>48,2066 16,37341</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__41240">Österreich</placeName>
+  <geo>47,33333 13,33333</geo>
+</location>
+  <idno type="URL" subtype="geonames">https://sws.geonames.org/2761369/</idno>
+  <idno type="URL" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/2316/</idno>
+  <idno type="URL" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/20954/</idno>
+  <idno type="URL">https://d-nb.info/gnd/4066009-6</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb50</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/50</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2316</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/20954</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</idno>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/65221/</idno>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/65223/</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb50</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+    <bibl type="collections" n="7">Default import collection</bibl>
+</listBibl>
+</place>
+
+<place xml:id="place__51">
+  <placeName>I., Innere Stadt</placeName>
+  <placeName type="uri_geonames">https://www.geonames.org/2775260/innere-stadt.html</placeName>
+  <placeName type="alternative-name">Inner city</placeName>
+  <placeName type="alternative-name">Wien,Innere Stadt</placeName>
+  <placeName type="alternative-name">1. Wiener Gemeindebezirk</placeName>
+  <placeName type="legacy-name-merge">Wien-Innere Stadt</placeName>
+  <placeName type="legacy-name-merge">Inner city</placeName>
+  <desc type="entity_type">Bezirk (A.BZK)</desc>
+  <desc type="entity_type_id">25</desc>
+<location type="coords">
+  <geo>48,20769 16,37049</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__41240">Österreich</placeName>
+  <geo>47,33333 13,33333</geo>
+</location>
+<location type="located_in_place">
+  <placeName key="place__50">Wien</placeName>
+  <geo>48,2066 16,37341</geo>
+</location>
+  <idno type="URL" subtype="geonames">http://sws.geonames.org/2775259/</idno>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36789/</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb51</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/51</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/36789/</idno>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/51010/</idno>
+  <idno type="URL">https://sws.geonames.org/2775259/</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb51</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb51</idno>
+<listBibl>
+    <bibl type="collections" n="1">ASBW</bibl>
+    <bibl type="collections" n="2">Erster Import</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</place>
+
+
+         </listPlace>
+      </body>
+  </text>
+</TEI>

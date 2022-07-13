@@ -1,0 +1,3495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+              <title>listperson.xml</title>
+           </titleStmt>
+           <publicationStmt>
+              <p>Publication Information</p>
+           </publicationStmt>
+           <sourceDesc>
+              <p>Information about the source</p>
+           </sourceDesc>
+        </fileDesc>
+       <revisionDesc>
+          <change when-iso="2022-07-13">serialized</change>
+       </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+           <p>Some text here.</p>
+           <listPerson>
+<person xml:id="person__2121">
+  <persName>
+      <forename>Arthur</forename>
+      <surname>Schnitzler</surname>
+  </persName>
+  <birth>
+    <date when-iso="1862-05-15">15.05.1862</date>
+      <settlement key="50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48,2066 16,37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1931-10-21">21.10.1931</date>
+      <settlement key="50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48,2066 16,37341</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <occupation key="97">Mediziner/Medizinerin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118609807</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2121</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
+  <idno type="URL">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/pmb2121</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="29698">An der schönen blauen Donau</orgName>
+    <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29698</idno>
+    <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29698</idno>
+    <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29698</idno>
+</affiliation>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="29440">Die Gesellschaft</orgName>
+    <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29440</idno>
+    <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29440</idno>
+    <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29440</idno>
+</affiliation>
+<affiliation when-iso="1888-08-20">
+    <term key="1182">arbeitet für</term>
+    <orgName key="41367">Allgemeine Poliklinik</orgName>
+    <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41367/</idno>
+    <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/41367</idno>
+    <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb41367</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Relation zu</term>
+    <orgName key="46027">Akademisches Gymnasium Wien</orgName>
+    <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/46027/</idno>
+    <idno type="URL">https://d-nb.info/gnd/4409610-0</idno>
+</affiliation>
+<affiliation notBefore-iso="1908-01-01" when-iso="1908-07-01" notAfter-iso="1908-12-31">
+    <term key="1153">in Relation zu</term>
+    <orgName key="29677">Franz-Grillparzer-Preis</orgName>
+    <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29677</idno>
+    <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29677</idno>
+    <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29677</idno>
+</affiliation>
+<affiliation when-iso="1910-04-26">
+    <term key="1534">unterstützt</term>
+    <orgName key="46791">Ebner-Eschenbach-Stiftung</orgName>
+    <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/46791/</idno>
+    <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb46791</idno>
+</affiliation>
+<affiliation when-iso="1887-12-18">
+    <term key="1182">arbeitet für</term>
+    <orgName key="39399">Internationale klinische Rundschau</orgName>
+    <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/39399/</idno>
+    <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/39399</idno>
+    <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb39399</idno>
+</affiliation>
+<affiliation notBefore-iso="1919-01-01" when-iso="1919-07-02" notAfter-iso="1919-12-31">
+    <term key="1182">arbeitet für</term>
+    <orgName key="29594">Deutschösterreichischer Autorenverband</orgName>
+    <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29594</idno>
+    <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29594</idno>
+</affiliation>
+<affiliation notBefore-iso="1918-01-01" when-iso="1918-07-02" notAfter-iso="1918-12-31">
+    <term key="1182">arbeitet für</term>
+    <orgName key="60307">Freiwillige Schutzwache des 18. und 19. Bezirks</orgName>
+    <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/60307/</idno>
+</affiliation>
+<affiliation notBefore-iso="1880-01-01" when-iso="1880-07-01" notAfter-iso="1880-12-31">
+    <term key="1182">arbeitet für</term>
+    <orgName key="29401">Wiener Medizinische Presse</orgName>
+    <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29401</idno>
+</affiliation>
+<affiliation when-iso="1899-03-27">
+    <term key="1153">in Relation zu</term>
+    <orgName key="29675">Bauernfeld-Preis</orgName>
+    <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29675</idno>
+    <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29675</idno>
+    <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29675</idno>
+    <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb29675</idno>
+</affiliation>
+<affiliation when-iso="1903-03-17">
+    <term key="1153">in Relation zu</term>
+    <orgName key="29675">Bauernfeld-Preis</orgName>
+    <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29675</idno>
+    <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29675</idno>
+    <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29675</idno>
+    <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb29675</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Relation zu</term>
+    <orgName key="29781">»Freie Bühne« Verein für moderne Literatur</orgName>
+    <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29781</idno>
+    <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29781</idno>
+    <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29781</idno>
+</affiliation>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="89319">Verein für modernes Leben</orgName>
+    <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/89319/</idno>
+</affiliation>
+<affiliation when-iso="1882-01-30">
+    <term key="1182">arbeitet für</term>
+    <orgName key="89594">Medicinischer Unterstützungsverein</orgName>
+    <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/89594/</idno>
+</affiliation>
+<listEvent>
+    <event key="41148" when-iso="1895-09-21">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Die Doppelhochzeit, 21.9.1895</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41148/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/41148</idno>
+    </event>
+    <event key="41414" when-iso="1896-05-23">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Der Zerrissene, 23.5.1896</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41414/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/41414</idno>
+    </event>
+    <event key="41434" when-iso="1902-11-29">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung Der arme Heinrich, 29.11.1902</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41434/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/41434</idno>
+    </event>
+    <event key="41441" when-iso="1904-10-08">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von König Heinrich, 8.10.1904</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41441/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/41441</idno>
+    </event>
+    <event key="41447" when-iso="1904-10-06">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Gastspiel Eleonora Duse in Kameliendame, 6.10.1904</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41447/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/41447</idno>
+    </event>
+    <event key="41587" when-iso="1904-11-18">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung Die Morgenröthe, 18.11.1904</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41587/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/41587</idno>
+    </event>
+    <event key="41674" when-iso="1892-10-02">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Gefallene Engel, 2.10.1892</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41674/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/41674</idno>
+    </event>
+    <event key="41938" when-iso="1894-01-05">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung Das Bild des Signorelli, 5.1.1894</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41938/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/41938</idno>
+    </event>
+    <event key="42019" when-iso="1896-09-19">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Die Athenerin, 19.9.1896</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/42019/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/42019</idno>
+    </event>
+    <event key="42028" when-iso="1901-09-30">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Hanna Jagert, 30.9.1901</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/42028/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/42028</idno>
+    </event>
+    <event key="42037" when-iso="1905-05-15">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Der Graf von Charolais, 15.5.1905</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/42037/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/42037</idno>
+    </event>
+    <event key="35284" when-iso="1893-07-14">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Abschiedssouper, 14.7.1893</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35284</idno>
+    </event>
+    <event key="35406" when-iso="1898-11-18">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Juana und Abschiedssouper, 18.11.1898</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35406</idno>
+    </event>
+    <event key="42170" when-iso="1894-10-20">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Die Komödianten, 20.10.1894</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/42170/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/42170</idno>
+    </event>
+    <event key="42176" when-iso="1894-10-25">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Kabale und Liebe, 25.10.1894</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/42176/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/42176</idno>
+    </event>
+    <event key="42188" when-iso="1894-11-10">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere Doppelselbstmord, 10.11.1894</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/42188/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/42188</idno>
+    </event>
+    <event key="42195" when-iso="1894-11-11">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Der Buckelhans, 11.11.1894</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/42195/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/42195</idno>
+    </event>
+    <event key="42232" when-iso="1895-05-21">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Macbeth, 21.5.1895</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/42232/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/42232</idno>
+    </event>
+    <event key="42285" when-iso="1895-03-09">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Julius Cäsar, 9.3.1895</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/42285/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/42285</idno>
+    </event>
+    <event key="42306" when-iso="1895-03-02">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Olympia (Gastspiel Julie Kopacsy-Karczag), 2.3.1895</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/42306/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/42306</idno>
+    </event>
+    <event key="42314" when-iso="1895-03-29">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Konzert Bronisław Huberman, 29.3.1895</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/42314/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/42314</idno>
+    </event>
+    <event key="42318" when-iso="1895-03-14">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung Feodora, 14.3.1895</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/42318/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/42318</idno>
+    </event>
+    <event key="42426" when-iso="1895-10-10">
+        <desc n="1370">teilgenommen an</desc>
+        <label>2. Aufführung von Liebelei, 10.10.1895</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/42426/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/42426</idno>
+    </event>
+    <event key="35203" when-iso="1895-10-09">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Liebelei, 9.10.1895</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35203</idno>
+    </event>
+    <event key="42439" when-iso="1895-11-09">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Das Glück im Winkel, 9.11.1895</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/42439/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/42439</idno>
+    </event>
+    <event key="42446" when-iso="1895-11-09">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Goldene Herzen, 9.11.1895</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/42446/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/42446</idno>
+    </event>
+    <event key="42468" when-iso="1895-11-15">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung Jabuka, 15.11.1895</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/42468/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/42468</idno>
+    </event>
+    <event key="42475" when-iso="1895-08-05">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Zwei glückliche Tage, Ischl, 5.8.1895</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/42475/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/42475</idno>
+    </event>
+    <event key="40436" when-iso="1893-01-14">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Die Räuber, 14.1.1893</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/40436/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/40436</idno>
+    </event>
+    <event key="42590" when-iso="1893-03-12">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung Aus der Vorstadt, 12.3.1893</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/42590/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/42590</idno>
+    </event>
+    <event key="35152" when-iso="1896-11-03">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Freiwild. Schauspiel in 3 Akten, 3.11.1896</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35152</idno>
+    </event>
+    <event key="42740" when-iso="1896-10-31">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Generalprobe Freiwild, 31.10.1896</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/42740/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/42740</idno>
+    </event>
+    <event key="42753" when-iso="1897-03-18">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Die Sklavin, 18.3.1897</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/42753/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/42753</idno>
+    </event>
+    <event key="42789" when-iso="1897-10-03">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Der Stellvertreter, 3.10.1897</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/42789/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/42789</idno>
+    </event>
+    <event key="42807" when-iso="1898-02-26">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung Die Braut von Messina, 26.2.1898</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/42807/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/42807</idno>
+    </event>
+    <event key="42893" when-iso="1898-05-16">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Mädchentraum, 16.5.1898</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/42893/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/42893</idno>
+    </event>
+    <event key="35312" when-iso="1898-12-10">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Der Star, 10.12.1898</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35312</idno>
+    </event>
+    <event key="43100" when-iso="1895-01-19">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Die Kameraden, 19.1.1895</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43100/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/43100</idno>
+    </event>
+    <event key="43136" when-iso="1895-10-12">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Ein Regentag, 12.10.1895</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43136/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/43136</idno>
+    </event>
+    <event key="43159" when-iso="1899-12-25">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Gläubiger, Mondscheinsonate, 25.12.1899</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43159/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/43159</idno>
+    </event>
+    <event key="43208" when-iso="1899-12-19">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Esther, Gefährtin, Paracelsus, 19.12.1899</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43208/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/43208</idno>
+    </event>
+    <event key="43233" when-iso="1899-12-06">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Siegfried, 6.12.1899</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43233/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/43233</idno>
+    </event>
+    <event key="43248" when-iso="1899-11-25">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Liebelei, 25.11.1899</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43248/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/43248</idno>
+    </event>
+    <event key="43270" when-iso="1896-10-24">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung Zu ebener Erde und erster Stock, 24.10.1896</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43270/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/43270</idno>
+    </event>
+    <event key="43275" when-iso="1899-02-10">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung Unser Käthchen, 10.2.1899</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43275/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/43275</idno>
+    </event>
+    <event key="38885" when-iso="1894-09-28">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Wohltätigkeitsaufführung von Tata-Toto, 28. 9. 1894</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/38885/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/38885</idno>
+    </event>
+    <event key="43296" when-iso="1921-01-29">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Generalprobe Reigen, 29.1.1921</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43296/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/43296</idno>
+    </event>
+    <event key="35092" when-iso="1921-02-01">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Reigen. Zehn Dialoge, 1.2.1921</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35092</idno>
+    </event>
+    <event key="43326" when-iso="1896-01-31">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Probe Liebelei, 31.1.1896</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43326/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/43326</idno>
+    </event>
+    <event key="35206" when-iso="1896-02-04">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Liebelei und Der zerbrochene Krug, 4.2.1896</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35206</idno>
+    </event>
+    <event key="43358" when-iso="1896-01-31">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von König Chilperich, 31.1.1896</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43358/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/43358</idno>
+    </event>
+    <event key="43387" when-iso="1896-10-17">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Die Mütter, 17.10.1896</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43387/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/43387</idno>
+    </event>
+    <event key="43494" when-iso="1902-11-29">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung Der arme Heinrich, 29.11.1902</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43494/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/43494</idno>
+    </event>
+    <event key="43508" when-iso="1917-05-08">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Daphnis-Lieder, 8.5.1917</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43508/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/43508</idno>
+    </event>
+    <event key="43870" when-iso="1929-12-02">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Generalprobe von Spuk, 2.12.1929</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43870/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/43870</idno>
+    </event>
+    <event key="35379" when-iso="1904-11-22">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Der tapfere Cassian, Premiere von Der grüne Kakadu, 22.11.1904</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35379</idno>
+    </event>
+    <event key="43911" when-iso="1910-10-22">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Generalprobe zur Trauerfeier für Josef Kainz, 22.10.1910</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43911/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/43911</idno>
+    </event>
+    <event key="44429" when-iso="1904-01-05">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Generalprobe zum Gastspiel von Isadora Duncan, 5.1.1904</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/44429/</idno>
+    </event>
+    <event key="35095" when-iso="1900-12-01">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Der Schleier der Beatrice, 1.12.1900</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35095</idno>
+    </event>
+    <event key="44469" when-iso="1903-08-26">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Eheschließung von Arthur Schnitzler und Olga Gussmann, 26.8.1903</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/44469/</idno>
+    </event>
+    <event key="44795" when-iso="1902-04-02">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Francesca da Rimini, 2.4.1902</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/44795/</idno>
+    </event>
+    <event key="44801" when-iso="1902-04-02">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Generalprobe von Über unsere Kraft, 2.4.1902</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/44801/</idno>
+    </event>
+    <event key="45067" when-iso="1904-10-05">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Herzogin Crevette, 5.10.1904</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/45067/</idno>
+    </event>
+    <event key="45077" when-iso="1905-01-25">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Des Knaben Wunderhorn (Mahler), 25.1.1905</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/45077/</idno>
+    </event>
+    <event key="45136" when-iso="1905-08-07">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Heimat, 7.8.1905</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/45136/</idno>
+    </event>
+    <event key="35170" when-iso="1905-06-05">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Sanna, 5.6.1906</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35170</idno>
+    </event>
+    <event key="45821" when-iso="1897-09-26">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Morte Civile, 26.9.1897</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/45821/</idno>
+    </event>
+    <event key="45832" when-iso="1897-09-30">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von König Lear, 30.9.1897</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/45832/</idno>
+    </event>
+    <event key="45838" when-iso="1897-09-28">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Die Unehrlichen, 28.9.1897</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/45838/</idno>
+    </event>
+    <event key="45842" when-iso="1899-01-11">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Theodora, 11.1.1899</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/45842/</idno>
+    </event>
+    <event key="35247" when-iso="1910-12-03">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Anatol, 3.12.1910</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35247</idno>
+    </event>
+    <event key="45952" when-iso="1898-01-16">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Abschiedssouper, Uraufführung Weihnachtseinkäufe, 16.1.1898</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/45952/</idno>
+    </event>
+    <event key="46005" when-iso="1908-12-18">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Szerelmeskedés (Liebelei), 18.12.1908</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/46005/</idno>
+    </event>
+    <event key="46014" when-iso="1913-04-16">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Professor Bernhardi, 16.4.1913</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/46014/</idno>
+    </event>
+    <event key="35179" when-iso="1906-02-24">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Der Ruf des Lebens, 24.2.1906</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35179</idno>
+    </event>
+    <event key="46073" when-iso="1906-02-25">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Ruf des Lebens, 25.2.1906</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/46073/</idno>
+    </event>
+    <event key="46078" when-iso="1906-02-26">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Ödipus und die Sphinx, 26.2.1906</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/46078/</idno>
+    </event>
+    <event key="46098" when-iso="1910-04-03">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Frage an das Schicksal, Die letzten Masken, Literatur, 3.4.1910</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/46098/</idno>
+    </event>
+    <event key="46106" when-iso="1907-10-16">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Vorlesung von Lieutenant Gustl, Das neue Lied, 16.10.1907</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/46106/</idno>
+    </event>
+    <event key="35185" when-iso="1909-12-11">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Der Ruf des Lebens, 11.12.1909</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35185</idno>
+    </event>
+    <event key="88534" when-iso="1911-10-14">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Das weite Land, 14.10.1911 [I.]</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35364</idno>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88534/</idno>
+    </event>
+    <event key="41620" when-iso="1918-12-21">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Professor Bernhardi, 21.12.1918</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41620/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/41620</idno>
+    </event>
+    <event key="46246" when-iso="1906-03-24">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Don Giovanni, 24.3.1906</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/46246/</idno>
+    </event>
+    <event key="46261" when-iso="1903-10-19">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Lesung von Arthur Schnitzler, 19.10.1903</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/46261/</idno>
+    </event>
+    <event key="46300" when-iso="1907-01-02">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Probeaufführung von Ruth Saint-Denis, 2.1.1907</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/46300/</idno>
+    </event>
+    <event key="43905" when-iso="1907-01-17">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Vortrag von Der Dichter und diese Zeit, 17.1.1907</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43905/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/43905</idno>
+    </event>
+    <event key="46314" when-iso="1907-02-10">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Lesung von Beer-Hofmann, Salten, Schnitzler, Wassermann, 10.2.1907</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/46314/</idno>
+    </event>
+    <event key="35215" when-iso="1909-01-05">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Liebelei, deutschsprachige Uraufführung von Komtesse Mizzi, 5.1.1909</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35215</idno>
+    </event>
+    <event key="46467" when-iso="1909-03-22">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Generalprobe von Elektra, 22.3.1909</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/46467/</idno>
+    </event>
+    <event key="46480" when-iso="1909-03-24">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Elektra, 24.3.1909</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/46480/</idno>
+    </event>
+    <event key="46496" when-iso="1909-04-16">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Gastspiel Suzanne Desprès, 16.4.1909</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/46496/</idno>
+    </event>
+    <event key="46528" when-iso="1909-11-01">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Private Vorlesung von Der junge Medardus, 1.11.1909</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/46528/</idno>
+    </event>
+    <event key="46552" when-iso="1909-12-10">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Generalprobe von Der Ruf des Lebens, 10.12.1909</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/46552/</idno>
+    </event>
+    <event key="46600" when-iso="1897-11-20">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Die Bürgermeisterwahl, 20.11.1897</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/46600/</idno>
+    </event>
+    <event key="46819" when-iso="1910-05-13">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Cristinas Heimreise [2. Fassung], 13.5.1910</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/46819/</idno>
+    </event>
+    <event key="46947" when-iso="1910-09-18">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Liebelei. Oper in drei Akten, 18.9.1910</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/46947/</idno>
+    </event>
+    <event key="35251" when-iso="1910-11-24">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Der junge Medardus, 24.11.1910</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35251</idno>
+    </event>
+    <event key="47048" when-iso="1910-11-23">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Generalprobe Der junge Medardus, 23.11.1910</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/47048/</idno>
+    </event>
+    <event key="47072" when-iso="1910-12-09">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Vorlesung von Medardus, Lieutenant Gustl, Weihnachtseinkäufe, 9.12.1910</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/47072/</idno>
+    </event>
+    <event key="47078" when-iso="1910-12-10">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Die letzten Masken, Komtesse Mizzi, Literatur, 10.12.1910</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/47078/</idno>
+    </event>
+    <event key="47101" when-iso="1911-02-27">
+        <desc n="1370">teilgenommen an</desc>
+        <label>40. Aufführung von Anatol, 27.2.1911</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/47101/</idno>
+    </event>
+    <event key="47113" when-iso="1911-03-21">
+        <desc n="1370">teilgenommen an</desc>
+        <label>25. Aufführung von Medardus, 21.3.1911</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/47113/</idno>
+    </event>
+    <event key="47397" when-iso="1912-02-10">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Marionetten, 10.2.1912</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/47397/</idno>
+    </event>
+    <event key="47451" when-iso="1912-06-14">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Der einsame Weg, 14.6.1912</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/47451/</idno>
+    </event>
+    <event key="47517" when-iso="1912-11-17">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Hauptmann-Bankett der Concordia, 17.11.1912</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/47517/</idno>
+    </event>
+    <event key="35355" when-iso="1912-11-28">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Professor Bernhardi, 28.11.1912</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35355</idno>
+    </event>
+    <event key="47575" when-iso="1912-12-21">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Generalprobe Das Märchen vom Wolf, 21. 12. 1912</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/47575/</idno>
+    </event>
+    <event key="47592" when-iso="1908-11-29">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Heine-Feier des Vereins für Kunst und Kultur, 29.11.1908</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/47592/</idno>
+    </event>
+    <event key="39553" when-iso="1895-03-27">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Faust. Der Tragödie 2. Teil am Burgtheater, 27.3.1895</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/39553/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/39553</idno>
+    </event>
+    <event key="47603" when-iso="1908-09-12">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Faust, 12.9.1908</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/47603/</idno>
+    </event>
+    <event key="47684" when-iso="1909-01-09">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Generalprobe von Anatols Hochzeitsmorgen, 9.1.1909</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/47684/</idno>
+    </event>
+    <event key="47695" when-iso="1913-02-24">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Private Vorlesung Frau Beate und ihr Sohn, 24.2.1913</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/47695/</idno>
+    </event>
+    <event key="35412">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Komödie der Worte, 12.10.1915</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35412</idno>
+    </event>
+    <event key="35361" when-iso="1924-10-11">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Komödie der Verführung, 11.10.1924</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35361</idno>
+    </event>
+    <event key="35427" when-iso="1917-11-14">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Fink und Fliederbusch, 14.11.1917</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35427</idno>
+    </event>
+    <event key="47800" when-iso="1917-05-03">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Bankett der Concordia anlässlich des Gastspiels des Zürcher Schauspielhauses, 3.5.1917</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/47800/</idno>
+    </event>
+    <event key="47813" when-iso="1919-02-27">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Generalprobe von Palestrina, 27.2.1919</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/47813/</idno>
+    </event>
+    <event key="47820" when-iso="1919-10-08">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Generalprobe Die Frau ohne Schatten, 8.10.1919</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/47820/</idno>
+    </event>
+    <event key="47830" when-iso="1891-06-25">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Private Vorlesung Das Märchen, 25.6.1891</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/47830/</idno>
+    </event>
+    <event key="47841" when-iso="1891-10-07">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Private Vorlesung Gestern, 7.10.1891</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/47841/</idno>
+    </event>
+    <event key="47850" when-iso="1904-04-11">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Private Vorlesung Das Schicksal des Freiherrn von Leisenbohg und Der Verführer, 11. 4. 1904</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/47850/</idno>
+    </event>
+    <event key="35424" when-iso="1920-03-26">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Die Schwestern oder Casanova in Spa, 26.3.1920</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35424</idno>
+    </event>
+    <event key="48183" when-iso="1922-02-03">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Private Lesung von Das große Welttheater, 3.2.1922</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/48183/</idno>
+    </event>
+    <event key="48195" when-iso="1922-09-16">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Dame Kobold, 16.9.1922</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/48195/</idno>
+    </event>
+    <event key="48222" when-iso="1910-06-29">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Private Vorlesung von Das weite Land, 29.6.1910</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/48222/</idno>
+    </event>
+    <event key="48242" when-iso="1925-10-13">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Generalprobe von Liebelei, 13.10.1925</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/48242/</idno>
+    </event>
+    <event key="48249" when-iso="1925-10-18">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Liebelei, 18.10.1925</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/48249/</idno>
+    </event>
+    <event key="48259" when-iso="1925-12-16">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Private Vorlesung von Der Gang zum Weiher, 16.12.1925</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/48259/</idno>
+    </event>
+    <event key="48470" when-iso="1905-04-13">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Rat Schrimpf, 13.4.1905</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/48470/</idno>
+    </event>
+    <event key="48481" when-iso="1905-04-16">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Rat Schrimpf, 16.4.1905</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/48481/</idno>
+    </event>
+    <event key="48776" when-iso="1892-02-08">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von College Crampton, 8.2.1892</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/48776/</idno>
+    </event>
+    <event key="35104" when-iso="1902-01-04">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Lebendige Stunden, 4.1.1902</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35104</idno>
+    </event>
+    <event key="48787" when-iso="1902-01-05">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Lebendige Stunden, 5.1.1902</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/48787/</idno>
+    </event>
+    <event key="48822" when-iso="1915-12-13">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Wohltätigkeitskonzert von Carreno und Bahr-Mildenburg, 13.12.1915</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/48822/</idno>
+    </event>
+    <event key="48866" when-iso="1895-09-18">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Leseprobe von Liebelei, 18.9.1895</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/48866/</idno>
+    </event>
+    <event key="48875" when-iso="1895-09-20">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Ein Pelikan, 20.9.1895</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41139/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/41139</idno>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/48875/</idno>
+    </event>
+    <event key="48883" when-iso="1897-10-28">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Private Lesung von Die Frau im Fenster, Der weiße Fächer, Die Hochzeit der Sobeide, 28.10.1897</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/48883/</idno>
+    </event>
+    <event key="48949" when-iso="1898-12-19">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Private Lesung von Pauline, 19.12.1898</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/48949/</idno>
+    </event>
+    <event key="35479" when-iso="1899-03-01">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Der grüne Kakadu – Paracelsus – Die Gefährtin. Drei Einakter, 1.3.1899</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35479</idno>
+    </event>
+    <event key="35482" when-iso="1899-04-29">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Der grüne Kakadu – Paracelsus – Die Gefährtin. Drei Einakter, 29.4.1899</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35482</idno>
+    </event>
+    <event key="35385" when-iso="1898-11-30">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Das Vermächtnis, 30.11.1898</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35385</idno>
+    </event>
+    <event key="49056" when-iso="1899-05-27">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Der Richter von Zalamea, 27.5.1899</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/49056/</idno>
+    </event>
+    <event key="35155" when-iso="1897-07-22">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Freiwild. Schauspiel in 3 Akten, 22.7.1897</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35155</idno>
+    </event>
+    <event key="49250" when-iso="1900-02-02">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Private Lesung von Der Gemeine, 2.2.1900</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/49250/</idno>
+    </event>
+    <event key="49350" when-iso="1900-10-28">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Private Lesung von Lieutenant Gustl, 28.10.1900</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/49350/</idno>
+    </event>
+    <event key="49365" when-iso="1897-09-17">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Die Meistersinger von Nürnberg, 17.9.1897</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/49365/</idno>
+    </event>
+    <event key="35418" when-iso="1931-02-14">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Der Gang zum Weiher, 14.2.1931</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35418</idno>
+    </event>
+    <event key="35439" when-iso="1929-12-21">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Im Spiel der Sommerlüfte, 21.12.1929</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35439</idno>
+    </event>
+    <event key="50054" when-iso="1902-06-17">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Schüleraufführung von Liebelei, 17.6.1902</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/50054/</idno>
+    </event>
+    <event key="50184" when-iso="1904-03-06">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Vorlesung von Richard Dehmel, 6.3.1904</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/50184/</idno>
+    </event>
+    <event key="50222" when-iso="1909-10-15">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Generalprobe von Jene Asra, 15.10.1909</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/50222/</idno>
+    </event>
+    <event key="35113" when-iso="1904-12-12">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Literatur, Die letzten Masken, Der Puppenspieler, 12.12.1904</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35113</idno>
+    </event>
+    <event key="50860" when-iso="1902-05-07">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Generalprobe von Peer Gynt, 7.5.1902</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/50860/</idno>
+    </event>
+    <event key="35107" when-iso="1902-05-06">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Lebendige Stunden, 6.5.1902</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35107</idno>
+    </event>
+    <event key="50882" when-iso="1902-09-28">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von König Lear, 28. 9. 1902</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/50882/</idno>
+    </event>
+    <event key="50887" when-iso="1897-11-25">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Vorlesung von Die Toten schweigen, Weihnachtseinkäufe, 25.11.1897</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/50887/</idno>
+    </event>
+    <event key="51266" when-iso="1899-02-19">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Vorlesung von Die Toten schweigen, 19.2.1899</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/51266/</idno>
+    </event>
+    <event key="51279" when-iso="1914-02-22">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Vorlesung von Leisenbohg, Professor Bernhardi, 22.2.1914</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/51279/</idno>
+    </event>
+    <event key="51297" when-iso="1891-10-28">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Freie Bühne, Erster geselliger Abend, 28.10.1891</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/51297/</idno>
+    </event>
+    <event key="51741" when-iso="1905-06-27">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Die Juden, 27.6.1905</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/51741/</idno>
+    </event>
+    <event key="52017" when-iso="1909-12-07">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Die schwarze Mali, 7.12.1909</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/52017/</idno>
+    </event>
+    <event key="52037" when-iso="1893-03-14">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Auftritt des Rosé-Quartetts, 14.3.1893</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/52037/</idno>
+    </event>
+    <event key="52040" when-iso="1897-01-14">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Privataufführung Vor dem Souper, 14. 1. 1897</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/52040/</idno>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/89601/</idno>
+    </event>
+    <event key="35373" when-iso="1910-01-22">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Der Schleier der Pierrette, 22.1.1910</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35373</idno>
+    </event>
+    <event key="53022" when-iso="1908-11-18">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Generalprobe von Tantris, 18.11.1908</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/53022/</idno>
+    </event>
+    <event key="53252" when-iso="1904-06-09">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Vater und Sohn, 9.6.1904</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/53252/</idno>
+    </event>
+    <event key="55226" when-iso="1919-04-04">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Generalprobe von Jaákobs Traum, 4.4.1919</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/55226/</idno>
+    </event>
+    <event key="55542" when-iso="1928-01-08">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Amphitryon und Es ist mein Wille, 8.1.1928</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/55542/</idno>
+    </event>
+    <event key="56662" when-iso="1924-01-10">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Liliom, 10.1.1924</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/56662/</idno>
+    </event>
+    <event key="56931" when-iso="1910-12-23">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Mein junger Herr, 23.12.1910</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/56931/</idno>
+    </event>
+    <event key="57547" when-iso="1897-12-27">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Private Vorlesung von Das Vermächtnis, 27.12.1897</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/57547/</idno>
+    </event>
+    <event key="35161" when-iso="1898-02-04">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Freiwild. Schauspiel in 3 Akten, 4.2.1898</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35161</idno>
+    </event>
+    <event key="35382" when-iso="1898-10-08">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Das Vermächtnis, 8.10.1898</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35382</idno>
+    </event>
+    <event key="57577" when-iso="1899-01-17">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Private Lesung von Der Abenteurer und die Sängerin, 17.1.1899</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/57577/</idno>
+    </event>
+    <event key="58640" when-iso="1923-05-15">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Große Szene, 15.5.1923</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/58640/</idno>
+    </event>
+    <event key="59292" when-iso="1897-03-28">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Lesung von Hirschfeld, Hofmannsthal, Schnitzler und Bahr, 28.3.1897</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/59292/</idno>
+    </event>
+    <event key="35272" when-iso="1904-02-13">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Der einsame Weg, 13.2.1904</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35272</idno>
+    </event>
+    <event key="59607" when-iso="1914-02-19">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Der einsame Weg, 19.2.1914</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/59607/</idno>
+    </event>
+    <event key="59624" when-iso="1906-05-15">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Der einsame Weg, 15.5.1906</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/59624/</idno>
+    </event>
+    <event key="59776" when-iso="1914-03-27">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung Gurre-Lieder, 27.3.1914</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/59776/</idno>
+    </event>
+    <event key="59956" when-iso="1905-08-12">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Private Lesung von Zwischenspiel und Der Ruf des Lebens, 12.8.1905</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/59956/</idno>
+    </event>
+    <event key="60857" when-iso="1906-04-18">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Onkel Wanja, 18.4.1906</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/60857/</idno>
+    </event>
+    <event key="62177" when-iso="1923-05-12">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Vorlesung von Dreifache Warnung, Letzte Masken, Weg ins Freie, Zum großen Wurstl, 12.5.1923</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/62177/</idno>
+    </event>
+    <event key="62185" when-iso="1923-05-14">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Vorlesung von Leisenbohg, Weihnachts-Einkäufe, Der grüne Kakadu, 14.5.1923</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/62185/</idno>
+    </event>
+    <event key="62220" when-iso="1923-04-16">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung Das weite Land, 16.4.1923</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/62220/</idno>
+    </event>
+    <event key="62229" when-iso="1923-05-22">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Liebelei, 22.5.1923</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/62229/</idno>
+    </event>
+    <event key="62339" when-iso="1898-10-26">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Private Lesung von Der grüne Kakadu, Die Gefährtin, Paracelus, 26.10.1898</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/62339/</idno>
+    </event>
+    <event key="62703" when-iso="1922-11-03">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Lesung von Die letzten Masken, Weihnachts-Einkäufe, Zum großen Wurstl, abgebrochen, 3.11.1922</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/62703/</idno>
+    </event>
+    <event key="62979" when-iso="1903-07-26">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Private Lesung von Haus Delorme, 26.7.1903</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/62979/</idno>
+    </event>
+    <event key="63078" when-iso="1891-11-20">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Prinzen in Genieland, 20.11.1891</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/63078/</idno>
+    </event>
+    <event key="63085" when-iso="1889-05-04">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Der Schierling, Uraufführung von Im Bunde der Dritte, Der Flüchtling, 4.5.1889</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/63085/</idno>
+    </event>
+    <event key="63347" when-iso="1898-12-03">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Die Lumpen, 3.12.1898</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/63347/</idno>
+    </event>
+    <event key="63356" when-iso="1895-11-12">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Gebildete Menschen, 12.11.1895</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/63356/</idno>
+    </event>
+    <event key="63365" when-iso="1904-02-10">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Rose Bernd, 10.2.1904</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/63365/</idno>
+    </event>
+    <event key="63449" when-iso="1920-03-12">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Der Puppenspieler, Der grüne Kakadu, Komtesse Mizzi, 12.3.1920</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/63449/</idno>
+    </event>
+    <event key="63461" when-iso="1920-03-13">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Komödie der Worte, 13.3.1920</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/63461/</idno>
+    </event>
+    <event key="63474" when-iso="1921-02-16">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Reigen, 16.2.1921</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/63474/</idno>
+    </event>
+    <event key="63490" when-iso="1893-12-01">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Generalprobe Das Märchen, 1.12.1893</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/63490/</idno>
+    </event>
+    <event key="35068" when-iso="1893-12-01">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Das Märchen 1.12.1893</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35068</idno>
+    </event>
+    <event key="63509" when-iso="1893-12-02">
+        <desc n="1370">teilgenommen an</desc>
+        <label>2. (und letzte) Aufführung Das Märchen, 2.12.1893</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/63509/</idno>
+    </event>
+    <event key="87820" when-iso="1894-10-14">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Private Lesung von Liebelei, 14.10.1894</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/87820/</idno>
+    </event>
+    <event key="87825" when-iso="1894-10-16">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Ottilie, 16.10.1894</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/87825/</idno>
+    </event>
+    <event key="88033" when-iso="1894-11-14">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Die Eder-Mitzi, 14.11.1894</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88033/</idno>
+    </event>
+    <event key="88068" when-iso="1894-11-17">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Das neue Stück, 17.11.1894</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88068/</idno>
+    </event>
+    <event key="88363" when-iso="1891-01-07">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Romeo und Julia, 7.1.1891</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88363/</idno>
+    </event>
+    <event key="88376" when-iso="1891-01-08">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Boccaccio, 8.1.1891</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88376/</idno>
+    </event>
+    <event key="35098" when-iso="1903-03-07">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Der Schleier der Beatrice, 7.3.1903</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35098</idno>
+    </event>
+    <event key="88576" when-iso="1911-11-27">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Der junge Medardus, 27.11.1911</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88576/</idno>
+    </event>
+    <event key="88630" when-iso="1911-10-30">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Das weite Land, 30.10.1911</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88630/</idno>
+    </event>
+    <event key="89146" when-iso="1891-03-17">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Gründungstreffen Jung Wien, 17.3.1891</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/89146/</idno>
+    </event>
+    <event key="89169" when-iso="1891-03-31">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Zusammenkunft Jung Wien, 31.3.1891</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/89169/</idno>
+    </event>
+    <event key="89173" when-iso="1891-04-07">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Zusammenkunft Jung Wien, 7.4.1891</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/89173/</idno>
+    </event>
+    <event key="89182" when-iso="1891-04-14">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Zusammenkunft Jung Wien, 14. 4. 1891</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/89182/</idno>
+    </event>
+    <event key="89188" when-iso="1891-04-21">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Zusammenkunft Jung Wien, 21. 4. 1891</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/89188/</idno>
+    </event>
+    <event key="89194" when-iso="1891-04-28">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Zusammenkunft Jung Wien, 28. 4. 1891</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/89194/</idno>
+    </event>
+    <event key="89199" when-iso="1891-05-05">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Zusammenkunft Jung Wien, 5. 5. 1891</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/89199/</idno>
+    </event>
+    <event key="89234" when-iso="1888-01-28">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Die Hochzeit des Reservisten, 28.1.1888</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/89234/</idno>
+    </event>
+    <event key="40995" when-iso="1891-07-07">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Gründungsveranstaltung Freie Bühne, Verein für moderne Literatur, 7.7.1891</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/40995/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/40995</idno>
+    </event>
+    <event key="89316" when-iso="1892-01-18">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Letzte Generalversammlung Freie Bühne, 18.1.1892</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/89316/</idno>
+    </event>
+    <event key="89324" when-iso="1892-03-03">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Vereinsabend Verein für modernes Leben, 3.3.1892</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/89324/</idno>
+    </event>
+    <event key="89342" when-iso="1892-04-13">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Verbotene Symbolistische Vorstellung, 13.4.1892</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/89342/</idno>
+    </event>
+    <event key="89335" when-iso="1892-05-02">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Symbolistische Vorstellung, 2.5.1892</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/89335/</idno>
+    </event>
+    <event key="89531" when-iso="1892-02-09">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Der Herzog von Gothland, 9.2.1892</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/89531/</idno>
+    </event>
+    <event key="89615" when-iso="1882-11-14">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Nur lügen muss man können. Scherz in einem Akte, 14.11.1882</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/89615/</idno>
+    </event>
+    <event key="89627" when-iso="1886-03-01">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Proben für Mein Mausi. Liebhaberaufführung, März 1886</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/89627/</idno>
+    </event>
+    <event key="89633" when-iso="1887-06-21">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Privataufführung Der grollende Löwe, 21.6.1887</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/89633/</idno>
+    </event>
+    <event key="89901" when-iso="1891-05-13">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Das Abenteuer seines Lebens u.a.,  13.5.1891</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/89901/</idno>
+    </event>
+</listEvent>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+</listBibl>
+</person>
+
+<person xml:id="person__2124">
+  <persName>
+      <forename>Josef Svatopluk</forename>
+      <surname>Machar</surname>
+  </persName>
+  <birth>
+    <date when-iso="1864-02-29">29.02.1864</date>
+      <settlement key="46463">
+        <placeName type="pref">Kolín</placeName>
+        <location><geo>50,02806 15,1998</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1942-03-17">17.03.1942</date>
+      <settlement key="652">
+        <placeName type="pref">Prag</placeName>
+        <location><geo>50,08333 14,46667</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118781022</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2124</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2124</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2124</idno>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+</listBibl>
+</person>
+
+<person xml:id="person__2128">
+  <persName>
+      <forename>Elsa</forename>
+      <surname>Plessner</surname>
+  </persName>
+  <persName type="geburtsname_vorname">Elisabeth</persName>
+  <persName type="ehename">Ginsberg</persName>
+  <persName type="legacy-name-merge">Plessner, Elsa</persName>
+  <birth>
+    <date when-iso="1875-08-22">22.08.1875</date>
+      <settlement key="50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48,2066 16,37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1932-05-01">01.05.1932</date>
+      <settlement key="49185">
+        <placeName type="pref">Alicante</placeName>
+        <location><geo>38,34517 -0,48149</geo></location>
+      </settlement>
+  </death>
+  <sex value="female"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1041571119</idno>
+  <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15435</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2128</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2128</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18833</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2128</idno>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+</listBibl>
+</person>
+
+<person xml:id="person__2132">
+  <persName>
+      <forename>Alois</forename>
+      <surname>Bahr</surname>
+  </persName>
+  <birth>
+    <date when-iso="1834-04-11">11.04.1834</date>
+      <settlement key="833">
+        <placeName type="pref">Brünn</placeName>
+        <location><geo>49,19522 16,60796</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1898-09-05">05.09.1898</date>
+      <settlement key="30">
+        <placeName type="pref">Salzburg</placeName>
+        <location><geo>47,80067 13,04532</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="94">Notar/Notarin</occupation>
+  <occupation key="95">Politiker/Politikerin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1021277495</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2132</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2132</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2132</idno>
+</person>
+
+<person xml:id="person__2135">
+  <persName>
+      <forename>Josef</forename>
+      <surname>Popper-Lynkeus</surname>
+  </persName>
+  <persName type="geburtsname_nachname">Popper</persName>
+  <persName type="loschen">X</persName>
+  <persName type="legacy-name-merge">Popper, Josef</persName>
+  <persName type="legacy-uri-merge">http://d-nb.info/gnd/1168760917</persName>
+  <birth>
+    <date when-iso="1838-02-21">21.02.1838</date>
+      <settlement key="46463">
+        <placeName type="pref">Kolín</placeName>
+        <location><geo>50,02806 15,1998</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1921-12-22">22.12.1921</date>
+      <settlement key="50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48,2066 16,37341</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118595822</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2135</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2135</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18916</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2135</idno>
+  <idno type="URL">https://schnitzler-lektueren.acdh.oeaw.ac.at/pmb2135.html</idno>
+</person>
+
+<person xml:id="person__2138">
+  <persName>
+      <forename>Johann Lukas</forename>
+      <surname>Schönlein</surname>
+  </persName>
+  <birth>
+    <date when-iso="1793-11-30">30.11.1793</date>
+      <settlement key="49187">
+        <placeName type="pref">Bamberg</placeName>
+        <location><geo>49,89873 10,90067</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1864-01-23">23.01.1864</date>
+      <settlement key="49187">
+        <placeName type="pref">Bamberg</placeName>
+        <location><geo>49,89873 10,90067</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="97">Mediziner/Medizinerin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/11879535X</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2138</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2138</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2138</idno>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+</listBibl>
+</person>
+
+<person xml:id="person__2142">
+  <persName>
+      <forename>Gabriele</forename>
+      <surname>D’Annunzio</surname>
+  </persName>
+  <persName type="legacy-name-merge">d’Annunzio, Gabriele</persName>
+  <birth>
+    <date when-iso="1863-03-12">12.03.1863</date>
+      <settlement key="49189">
+        <placeName type="pref">Pescara</placeName>
+        <location><geo>42,4584 14,20283</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1938-03-01">01.03.1938</date>
+      <settlement key="50969">
+        <placeName type="pref">Cargnacco</placeName>
+        <location><geo>46,004 13,235</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118503243</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2142</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2142</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13222</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2142</idno>
+  <idno type="URL">https://schnitzler-lektueren.acdh.oeaw.ac.at/pmb2142.html</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/personen/pmb2142</idno>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person>
+
+<person xml:id="person__2147">
+  <persName>
+      <forename>Peter</forename>
+      <surname>Altenberg</surname>
+  </persName>
+  <persName type="geburtsname_vorname">Richard</persName>
+  <persName type="geburtsname_nachname">Engländer</persName>
+  <persName type="pseudonym">Peter Altenberg</persName>
+  <persName type="loschen">X</persName>
+  <birth>
+    <date when-iso="1859-03-09">09.03.1859</date>
+      <settlement key="50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48,2066 16,37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1919-01-08">08.01.1919</date>
+      <settlement key="50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48,2066 16,37341</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118502255</idno>
+  <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13162</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2147</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2147</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/15922</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2147</idno>
+  <idno type="URL">https://schnitzler-lektueren.acdh.oeaw.ac.at/pmb2147.html</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/personen/pmb2147</idno>
+<affiliation>
+    <term key="1153">in Relation zu</term>
+    <orgName key="46027">Akademisches Gymnasium Wien</orgName>
+    <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/46027/</idno>
+    <idno type="URL">https://d-nb.info/gnd/4409610-0</idno>
+</affiliation>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="51868">Cabaret Fledermaus</orgName>
+    <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/51868/</idno>
+    <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb51868</idno>
+</affiliation>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person>
+
+<person xml:id="person__2150">
+  <persName>
+      <forename>Julius</forename>
+      <surname>Bauer</surname>
+  </persName>
+  <birth>
+    <date when-iso="1853-10-15">15.10.1853</date>
+      <settlement key="49199">
+        <placeName type="pref">Szigetvár</placeName>
+        <location><geo>46,04865 17,80554</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1941-06-11">11.06.1941</date>
+      <settlement key="50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48,2066 16,37341</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <occupation key="99">Journalist/Journalistin</occupation>
+  <occupation key="100">Kritiker/Kritikerin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116085274</idno>
+  <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13471</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2150</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2150</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2150</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="29720">Illustrirtes Wiener Extrablatt</orgName>
+    <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29720</idno>
+    <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29720</idno>
+    <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29720</idno>
+</affiliation>
+<affiliation notBefore-iso="1892-01-01" when-iso="1892-07-01" notAfter-iso="1892-12-31">
+    <term key="1182">arbeitet für</term>
+    <orgName key="29414">Neues Wiener Tagblatt</orgName>
+    <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29414</idno>
+    <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29414</idno>
+    <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29414</idno>
+    <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb29414</idno>
+</affiliation>
+<listEvent>
+    <event key="42019" when-iso="1896-09-19">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Die Athenerin, 19.9.1896</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/42019/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/42019</idno>
+    </event>
+    <event key="43870" when-iso="1929-12-02">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Generalprobe von Spuk, 2.12.1929</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43870/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/43870</idno>
+    </event>
+</listEvent>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+</listBibl>
+</person>
+
+<person xml:id="person__2154">
+  <persName>
+      <forename>Vincenz</forename>
+      <surname>Chiavacci</surname>
+  </persName>
+  <birth>
+    <date when-iso="1847-06-15">15.06.1847</date>
+      <settlement key="50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48,2066 16,37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1916-02-02">02.02.1916</date>
+      <settlement key="50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48,2066 16,37341</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <occupation key="99">Journalist/Journalistin</occupation>
+  <occupation key="1472">Beamter/Beamte</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116504854</idno>
+  <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14195</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2154</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2154</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2154</idno>
+</person>
+
+<person xml:id="person__2157">
+  <persName>
+      <forename>Leo</forename>
+      <surname>Ebermann</surname>
+  </persName>
+  <birth>
+    <date when-iso="1863-07-16">16.07.1863</date>
+      <settlement key="53790">
+        <placeName type="pref">Draganovka</placeName>
+        <location><geo>48,87709 26,37927</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1914-10-09">09.10.1914</date>
+      <settlement key="50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48,2066 16,37341</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <occupation key="99">Journalist/Journalistin</occupation>
+  <occupation key="102">Wissenschaftler/Wissenschaftlerin &gt;&gt; Rechtswissenschaftler/Rechtswissenschaftlerin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/14398179X</idno>
+  <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14597</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2157</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2157</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2157</idno>
+</person>
+
+<person xml:id="person__2161">
+  <persName>
+      <forename>Emerich von</forename>
+      <surname>Bukovics</surname>
+  </persName>
+  <persName type="geburtsname_nachname">Bukovics von Kiss-Alacsa</persName>
+  <persName type="legacy-name-merge">Bukovics, Emerich von</persName>
+  <birth>
+    <date when-iso="1844-02-28">28.02.1844</date>
+      <settlement key="50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48,2066 16,37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1905-07-04">04.07.1905</date>
+      <settlement key="50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48,2066 16,37341</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="99">Journalist/Journalistin</occupation>
+  <occupation key="103">Theaterleiter/Theaterleiterin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/11715380X</idno>
+  <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14056</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2161</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2161</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2161</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/personen/pmb2161</idno>
+<affiliation notBefore-iso="1889-01-01" when-iso="1889-07-02" notAfter-iso="1889-12-31">
+    <term key="1182">arbeitet für</term>
+    <orgName key="36430">Volkstheater</orgName>
+    <idno type="URL">https://d-nb.info/gnd/146313-5</idno>
+    <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/36430</idno>
+    <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb36430</idno>
+    <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb36430</idno>
+</affiliation>
+<listEvent>
+    <event key="35095" when-iso="1900-12-01">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Der Schleier der Beatrice, 1.12.1900</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35095</idno>
+    </event>
+    <event key="35272" when-iso="1904-02-13">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Der einsame Weg, 13.2.1904</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35272</idno>
+    </event>
+</listEvent>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person>
+
+<person xml:id="person__2164">
+  <persName>
+      <forename>Ernst</forename>
+      <surname>Gettke</surname>
+  </persName>
+  <birth>
+    <date when-iso="1841-10-08">08.10.1841</date>
+      <settlement key="168">
+        <placeName type="pref">Berlin</placeName>
+        <location><geo>52,52437 13,41053</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1912-12-04">04.12.1912</date>
+      <settlement key="168">
+        <placeName type="pref">Berlin</placeName>
+        <location><geo>52,52437 13,41053</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <occupation key="103">Theaterleiter/Theaterleiterin</occupation>
+  <occupation key="104">Regisseur/Regisseurin</occupation>
+  <occupation key="105">Schauspieler/Schauspielerin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116601159</idno>
+  <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15410</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2164</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2164</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2164</idno>
+</person>
+
+<person xml:id="person__2167">
+  <persName>
+      <forename>Felix</forename>
+      <surname>Salten</surname>
+  </persName>
+  <persName type="geburtsname_vorname">Siegmund</persName>
+  <persName type="geburtsname_nachname">Salzmann</persName>
+  <persName type="loschen">X</persName>
+  <persName type="legacy-name-merge">Salzmann, Siegmund</persName>
+  <birth>
+    <date when-iso="1869-09-06">06.09.1869</date>
+      <settlement key="43471">
+        <placeName type="pref">Budapest</placeName>
+        <location><geo>47,49835 19,04045</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1945-10-08">08.10.1945</date>
+      <settlement key="484">
+        <placeName type="pref">Zürich</placeName>
+        <location><geo>47,37174 8,54226</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <occupation key="99">Journalist/Journalistin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118840819</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2167</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2167</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19542</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2167</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/personen/pmb2167</idno>
+<affiliation when-iso="1894-10-01">
+    <term key="1182">arbeitet für</term>
+    <orgName key="29670">Wiener Allgemeine Zeitung</orgName>
+    <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29670</idno>
+    <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29670</idno>
+    <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29670</idno>
+    <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb29670</idno>
+</affiliation>
+<affiliation notBefore-iso="1904-01-01" when-iso="1904-07-01" notAfter-iso="1904-12-31">
+    <term key="1182">arbeitet für</term>
+    <orgName key="29626">Die Zeit</orgName>
+    <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29626</idno>
+    <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29626</idno>
+    <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29626</idno>
+    <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb29626</idno>
+</affiliation>
+<affiliation notBefore-iso="1905-01-01" when-iso="1905-07-02" notAfter-iso="1905-12-31">
+    <term key="1182">arbeitet für</term>
+    <orgName key="29702">B.Z. am Mittag</orgName>
+    <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29702</idno>
+    <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29702</idno>
+    <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29702</idno>
+    <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb29702</idno>
+</affiliation>
+<affiliation notBefore-iso="1906-01-01" when-iso="1906-07-02" notAfter-iso="1906-12-31">
+    <term key="1182">arbeitet für</term>
+    <orgName key="29626">Die Zeit</orgName>
+    <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29626</idno>
+    <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29626</idno>
+    <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29626</idno>
+    <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb29626</idno>
+</affiliation>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="48930">Fremden-Blatt</orgName>
+    <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29600</idno>
+    <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29600</idno>
+    <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/48930/</idno>
+    <idno type="URL">https://d-nb.info/gnd/1086227905</idno>
+</affiliation>
+<affiliation>
+    <term key="1153">in Relation zu</term>
+    <orgName key="29781">»Freie Bühne« Verein für moderne Literatur</orgName>
+    <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29781</idno>
+    <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29781</idno>
+    <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29781</idno>
+</affiliation>
+<listEvent>
+    <event key="42426" when-iso="1895-10-10">
+        <desc n="1370">teilgenommen an</desc>
+        <label>2. Aufführung von Liebelei, 10.10.1895</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/42426/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/42426</idno>
+    </event>
+    <event key="40436" when-iso="1893-01-14">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Die Räuber, 14.1.1893</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/40436/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/40436</idno>
+    </event>
+    <event key="35095" when-iso="1900-12-01">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Der Schleier der Beatrice, 1.12.1900</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35095</idno>
+    </event>
+    <event key="88534" when-iso="1911-10-14">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Das weite Land, 14.10.1911 [I.]</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35364</idno>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88534/</idno>
+    </event>
+    <event key="46300" when-iso="1907-01-02">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Probeaufführung von Ruth Saint-Denis, 2.1.1907</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/46300/</idno>
+    </event>
+    <event key="46314" when-iso="1907-02-10">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Lesung von Beer-Hofmann, Salten, Schnitzler, Wassermann, 10.2.1907</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/46314/</idno>
+    </event>
+    <event key="46528" when-iso="1909-11-01">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Private Vorlesung von Der junge Medardus, 1.11.1909</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/46528/</idno>
+    </event>
+    <event key="46552" when-iso="1909-12-10">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Generalprobe von Der Ruf des Lebens, 10.12.1909</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/46552/</idno>
+    </event>
+    <event key="47517" when-iso="1912-11-17">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Hauptmann-Bankett der Concordia, 17.11.1912</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/47517/</idno>
+    </event>
+    <event key="47695" when-iso="1913-02-24">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Private Vorlesung Frau Beate und ihr Sohn, 24.2.1913</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/47695/</idno>
+    </event>
+    <event key="47800" when-iso="1917-05-03">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Bankett der Concordia anlässlich des Gastspiels des Zürcher Schauspielhauses, 3.5.1917</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/47800/</idno>
+    </event>
+    <event key="47830" when-iso="1891-06-25">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Private Vorlesung Das Märchen, 25.6.1891</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/47830/</idno>
+    </event>
+    <event key="47841" when-iso="1891-10-07">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Private Vorlesung Gestern, 7.10.1891</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/47841/</idno>
+    </event>
+    <event key="48195" when-iso="1922-09-16">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Dame Kobold, 16.9.1922</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/48195/</idno>
+    </event>
+    <event key="48259" when-iso="1925-12-16">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Private Vorlesung von Der Gang zum Weiher, 16.12.1925</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/48259/</idno>
+    </event>
+    <event key="49250" when-iso="1900-02-02">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Private Lesung von Der Gemeine, 2.2.1900</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/49250/</idno>
+    </event>
+    <event key="49350" when-iso="1900-10-28">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Private Lesung von Lieutenant Gustl, 28.10.1900</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/49350/</idno>
+    </event>
+    <event key="57577" when-iso="1899-01-17">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Private Lesung von Der Abenteurer und die Sängerin, 17.1.1899</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/57577/</idno>
+    </event>
+    <event key="59292" when-iso="1897-03-28">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Lesung von Hirschfeld, Hofmannsthal, Schnitzler und Bahr, 28.3.1897</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/59292/</idno>
+    </event>
+    <event key="62339" when-iso="1898-10-26">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Private Lesung von Der grüne Kakadu, Die Gefährtin, Paracelus, 26.10.1898</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/62339/</idno>
+    </event>
+    <event key="87820" when-iso="1894-10-14">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Private Lesung von Liebelei, 14.10.1894</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/87820/</idno>
+    </event>
+    <event key="89146" when-iso="1891-03-17">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Gründungstreffen Jung Wien, 17.3.1891</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/89146/</idno>
+    </event>
+    <event key="89188" when-iso="1891-04-21">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Zusammenkunft Jung Wien, 21. 4. 1891</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/89188/</idno>
+    </event>
+    <event key="40995" when-iso="1891-07-07">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Gründungsveranstaltung Freie Bühne, Verein für moderne Literatur, 7.7.1891</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/40995/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/40995</idno>
+    </event>
+    <event key="89324" when-iso="1892-03-03">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Vereinsabend Verein für modernes Leben, 3.3.1892</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/89324/</idno>
+    </event>
+    <event key="89342" when-iso="1892-04-13">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Verbotene Symbolistische Vorstellung, 13.4.1892</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/89342/</idno>
+    </event>
+</listEvent>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person>
+
+<person xml:id="person__2170">
+  <persName>
+      <forename>Friedrich</forename>
+      <surname>Geiringer</surname>
+  </persName>
+  <birth>
+    <date when-iso="1859-01-22">22.01.1859</date>
+      <settlement key="50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48,2066 16,37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1923-10-19">19.10.1923</date>
+      <settlement key="50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48,2066 16,37341</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="106">Rechtsanwalt/Rechtsanwältin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1123538026</idno>
+  <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15369</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2170</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2170</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2170</idno>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+</listBibl>
+</person>
+
+<person xml:id="person__2173">
+  <persName>
+      <forename>Olga</forename>
+      <surname>Schnitzler</surname>
+  </persName>
+  <persName type="geburtsname_nachname">Gussmann</persName>
+  <persName type="loschen">Gussmann</persName>
+  <persName type="pseudonym">Dina Marius</persName>
+  <persName type="legacy-name-merge">Schnitzler, Olga</persName>
+  <birth>
+    <date when-iso="1882-01-17">17.01.1882</date>
+      <settlement key="50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48,2066 16,37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1970-01-13">13.01.1970</date>
+      <settlement key="885">
+        <placeName type="pref">Lugano</placeName>
+        <location><geo>46,01008 8,96004</geo></location>
+      </settlement>
+  </death>
+  <sex value="female"/>
+  <occupation key="105">Schauspieler/Schauspielerin</occupation>
+  <occupation key="107">Sänger/Sängerin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116848723</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2173</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2173</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19832</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2173</idno>
+<listEvent>
+    <event key="41441" when-iso="1904-10-08">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von König Heinrich, 8.10.1904</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41441/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/41441</idno>
+    </event>
+    <event key="41447" when-iso="1904-10-06">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Gastspiel Eleonora Duse in Kameliendame, 6.10.1904</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41447/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/41447</idno>
+    </event>
+    <event key="42028" when-iso="1901-09-30">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Hanna Jagert, 30.9.1901</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/42028/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/42028</idno>
+    </event>
+    <event key="43508" when-iso="1917-05-08">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Daphnis-Lieder, 8.5.1917</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43508/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/43508</idno>
+    </event>
+    <event key="43911" when-iso="1910-10-22">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Generalprobe zur Trauerfeier für Josef Kainz, 22.10.1910</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43911/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/43911</idno>
+    </event>
+    <event key="44429" when-iso="1904-01-05">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Generalprobe zum Gastspiel von Isadora Duncan, 5.1.1904</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/44429/</idno>
+    </event>
+    <event key="44469" when-iso="1903-08-26">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Eheschließung von Arthur Schnitzler und Olga Gussmann, 26.8.1903</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/44469/</idno>
+    </event>
+    <event key="45077" when-iso="1905-01-25">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Des Knaben Wunderhorn (Mahler), 25.1.1905</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/45077/</idno>
+    </event>
+    <event key="45136" when-iso="1905-08-07">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Heimat, 7.8.1905</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/45136/</idno>
+    </event>
+    <event key="35170" when-iso="1906-06-05">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Sanna, 5.6.1906</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35170</idno>
+    </event>
+    <event key="46005" when-iso="1908-12-18">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Szerelmeskedés (Liebelei), 18.12.1908</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/46005/</idno>
+    </event>
+    <event key="46098" when-iso="1910-04-03">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Frage an das Schicksal, Die letzten Masken, Literatur, 3.4.1910</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/46098/</idno>
+    </event>
+    <event key="35185" when-iso="1909-12-11">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Der Ruf des Lebens, 11.12.1909</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35185</idno>
+    </event>
+    <event key="88534" when-iso="1911-10-14">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Das weite Land, 14.10.1911 [I.]</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35364</idno>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88534/</idno>
+    </event>
+    <event key="41620" when-iso="1918-12-21">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Professor Bernhardi, 21.12.1918</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/41620/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/41620</idno>
+    </event>
+    <event key="46300" when-iso="1907-01-02">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Probeaufführung von Ruth Saint-Denis, 2.1.1907</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/46300/</idno>
+    </event>
+    <event key="35215" when-iso="1909-01-05">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Liebelei, deutschsprachige Uraufführung von Komtesse Mizzi, 5.1.1909</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35215</idno>
+    </event>
+    <event key="46480" when-iso="1909-03-24">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Elektra, 24.3.1909</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/46480/</idno>
+    </event>
+    <event key="46552" when-iso="1909-12-10">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Generalprobe von Der Ruf des Lebens, 10.12.1909</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/46552/</idno>
+    </event>
+    <event key="46819" when-iso="1910-05-13">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Cristinas Heimreise [2. Fassung], 13.5.1910</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/46819/</idno>
+    </event>
+    <event key="46947" when-iso="1910-09-18">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Liebelei. Oper in drei Akten, 18.9.1910</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/46947/</idno>
+    </event>
+    <event key="35251" when-iso="1910-11-24">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Der junge Medardus, 24.11.1910</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35251</idno>
+    </event>
+    <event key="47101" when-iso="1911-02-27">
+        <desc n="1370">teilgenommen an</desc>
+        <label>40. Aufführung von Anatol, 27.2.1911</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/47101/</idno>
+    </event>
+    <event key="35355" when-iso="1912-11-28">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Professor Bernhardi, 28.11.1912</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35355</idno>
+    </event>
+    <event key="47695" when-iso="1913-02-24">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Private Vorlesung Frau Beate und ihr Sohn, 24.2.1913</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/47695/</idno>
+    </event>
+    <event key="35427" when-iso="1917-11-14">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Fink und Fliederbusch, 14.11.1917</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35427</idno>
+    </event>
+    <event key="47850" when-iso="1904-04-11">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Private Vorlesung Das Schicksal des Freiherrn von Leisenbohg und Der Verführer, 11. 4. 1904</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/47850/</idno>
+    </event>
+    <event key="50184" when-iso="1904-03-06">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Vorlesung von Richard Dehmel, 6.3.1904</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/50184/</idno>
+    </event>
+    <event key="35113" when-iso="1904-12-12">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Literatur, Die letzten Masken, Der Puppenspieler, 12.12.1904</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35113</idno>
+    </event>
+    <event key="51741" when-iso="1905-06-27">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Die Juden, 27.6.1905</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/51741/</idno>
+    </event>
+    <event key="35373" when-iso="1910-01-22">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Der Schleier der Pierrette, 22.1.1910</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35373</idno>
+    </event>
+    <event key="53252" when-iso="1904-06-09">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Vater und Sohn, 9.6.1904</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/53252/</idno>
+    </event>
+    <event key="56931" when-iso="1910-12-23">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Uraufführung von Mein junger Herr, 23.12.1910</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/56931/</idno>
+    </event>
+    <event key="59607" when-iso="1914-02-19">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Der einsame Weg, 19.2.1914</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/59607/</idno>
+    </event>
+    <event key="59624" when-iso="1906-05-15">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Der einsame Weg, 15.5.1906</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/59624/</idno>
+    </event>
+    <event key="60857" when-iso="1906-04-18">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Onkel Wanja, 18.4.1906</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/60857/</idno>
+    </event>
+    <event key="62979" when-iso="1903-07-26">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Private Lesung von Haus Delorme, 26.7.1903</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/62979/</idno>
+    </event>
+    <event key="63365" when-iso="1904-02-10">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Rose Bernd, 10.2.1904</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/63365/</idno>
+    </event>
+    <event key="35098" when-iso="1903-03-07">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Der Schleier der Beatrice, 7.3.1903</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35098</idno>
+    </event>
+    <event key="88576" when-iso="1911-11-27">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Der junge Medardus, 27.11.1911</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88576/</idno>
+    </event>
+</listEvent>
+</person>
+
+<person xml:id="person__2176">
+  <persName>
+      <surname>Phillipp II. von Spanien</surname>
+  </persName>
+  <birth>
+    <date when-iso="1527-05-21">21.5.1527</date>
+      <settlement key="47632">
+        <placeName type="pref">Valladolid</placeName>
+        <location><geo>41,65518 -4,72372</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1598-09-13">13.9.1598</date>
+      <settlement key="53792">
+        <placeName type="pref">El Escorial</placeName>
+        <location><geo>38,57783 -2,4515</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="109">Regent/Regentin &gt;&gt; König/Königin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118593862</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2176</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2176</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2176</idno>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+</listBibl>
+</person>
+
+<person xml:id="person__2181">
+  <persName>
+      <forename>Diego Rodríguez de Silva y</forename>
+      <surname>Velázquez</surname>
+  </persName>
+  <birth>
+    <date when-iso="1599-06-06">06.06.1599</date>
+      <settlement key="49183">
+        <placeName type="pref">Seville</placeName>
+        <location><geo>37,38283 -5,97317</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1660-08-06">06.08.1660</date>
+      <settlement key="914">
+        <placeName type="pref">Madrid</placeName>
+        <location><geo>40,4165 -3,70256</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="110">Bildender Künstler/Bildende Künstlerin &gt;&gt; Maler/Malerin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118626426</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2181</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2181</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2181</idno>
+</person>
+
+<person xml:id="person__2185">
+  <persName>
+      <forename>Albert</forename>
+      <surname>Gutmann</surname>
+  </persName>
+  <birth>
+    <date when-iso="1851-06-20">20.06.1851</date>
+      <settlement key="40508">
+        <placeName type="pref">Fürth</placeName>
+        <location><geo>49,47593 10,98856</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1915-03-07">07.03.1915</date>
+      <settlement key="50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48,2066 16,37341</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="111">Veranstalter/Veranstalterin</occupation>
+  <occupation key="112">Agent/Agentin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/128746734</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2185</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2185</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2185</idno>
+</person>
+
+<person xml:id="person__2189">
+  <persName>
+      <forename>Ermete</forename>
+      <surname>Novelli</surname>
+  </persName>
+  <birth>
+    <date when-iso="1851-03-05">05.03.1851</date>
+      <settlement key="49191">
+        <placeName type="pref">Lucca</placeName>
+        <location><geo>43,84369 10,50447</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1919-01-29">29.01.1919</date>
+      <settlement key="595">
+        <placeName type="pref">Neapel</placeName>
+        <location><geo>40,85216 14,26811</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="105">Schauspieler/Schauspielerin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/117068500</idno>
+  <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18490</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2189</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2189</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2189</idno>
+</person>
+
+<person xml:id="person__2193">
+  <persName>
+      <forename>Oskar</forename>
+      <surname>Sauer</surname>
+  </persName>
+  <birth>
+    <date when-iso="1856-12-05">05.12.1856</date>
+      <settlement key="168">
+        <placeName type="pref">Berlin</placeName>
+        <location><geo>52,52437 13,41053</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1918-04-03">03.04.1918</date>
+      <settlement key="168">
+        <placeName type="pref">Berlin</placeName>
+        <location><geo>52,52437 13,41053</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="105">Schauspieler/Schauspielerin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118794663</idno>
+  <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19590</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2193</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2193</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2193</idno>
+<listEvent>
+    <event key="35272" when-iso="1904-02-13">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Uraufführung von Der einsame Weg, 13.2.1904</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35272</idno>
+    </event>
+    <event key="59624" when-iso="1906-05-15">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Aufführung von Der einsame Weg, 15.5.1906</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/59624/</idno>
+    </event>
+    <event key="35152" when-iso="1896-11-03">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Uraufführung von Freiwild. Schauspiel in 3 Akten, 3.11.1896</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35152</idno>
+    </event>
+    <event key="35098" when-iso="1903-03-07">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Premiere von Der Schleier der Beatrice, 7.3.1903</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35098</idno>
+    </event>
+</listEvent>
+</person>
+
+<person xml:id="person__2196">
+  <persName>
+      <forename>Emil von</forename>
+      <surname>Jettel-Ettenach</surname>
+  </persName>
+  <birth>
+    <date when-iso="1846-04-08">08.04.1846</date>
+      <settlement key="50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48,2066 16,37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1925-04-25">25.04.1925</date>
+      <settlement key="50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48,2066 16,37341</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="102">Wissenschaftler/Wissenschaftlerin &gt;&gt; Rechtswissenschaftler/Rechtswissenschaftlerin</occupation>
+  <occupation key="113">Beamter/Beamte &gt;&gt; Ministerialbeamter/Ministerialbeamte</occupation>
+  <occupation key="114">Zensor/Zensorin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1012834638</idno>
+  <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16551</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2196</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2196</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2196</idno>
+</person>
+
+<person xml:id="person__2199">
+  <persName>
+      <forename>Stephan</forename>
+      <surname>Epstein</surname>
+  </persName>
+  <birth>
+    <date when-iso="1866-11-12">12.11.1866</date>
+      <settlement key="888">
+        <placeName type="pref">Warschau</placeName>
+        <location><geo>52,22977 21,01178</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1941-01-01">1941</date>
+      <settlement key="182">
+        <placeName type="pref">Paris</placeName>
+        <location><geo>48,85341 2,3488</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <occupation key="115">Dramaturg/Dramaturgin</occupation>
+  <occupation key="116">Übersetzer/Übersetzerin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116517220</idno>
+  <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14779</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2199</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2199</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2199</idno>
+</person>
+
+<person xml:id="person__2202">
+  <persName>
+      <forename>Wilhelm</forename>
+      <surname>Singer</surname>
+  </persName>
+  <birth>
+    <date when-iso="1847-11-26">26.11.1847</date>
+      <settlement key="53794">
+        <placeName type="pref">Bzenec</placeName>
+        <location><geo>48,97336 17,26685</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1917-10-10">10.10.1917</date>
+      <settlement key="50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48,2066 16,37341</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="99">Journalist/Journalistin</occupation>
+  <occupation key="117">Redakteur/Redakteurin &gt;&gt; Chefredakteur/Chefredakteurin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/117402834</idno>
+  <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20141</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2202</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2202</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2202</idno>
+<affiliation>
+    <term key="1182">arbeitet für</term>
+    <orgName key="29800">Österreichischer Journalistenbund</orgName>
+    <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29800</idno>
+    <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29800</idno>
+</affiliation>
+<affiliation when-iso="1891-08-01">
+    <term key="1182">arbeitet für</term>
+    <orgName key="29414">Neues Wiener Tagblatt</orgName>
+    <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29414</idno>
+    <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29414</idno>
+    <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29414</idno>
+    <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb29414</idno>
+</affiliation>
+<affiliation notBefore-iso="1880-01-01" when-iso="1880-07-01" notAfter-iso="1880-12-31">
+    <term key="1182">arbeitet für</term>
+    <orgName key="29351">Neue Freie Presse</orgName>
+    <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29351</idno>
+    <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29351</idno>
+    <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29351</idno>
+    <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb29351</idno>
+</affiliation>
+</person>
+
+<person xml:id="person__2206">
+  <persName>
+      <forename>Émile</forename>
+      <surname>Lutz</surname>
+  </persName>
+  <birth>
+    <date when-iso="1868-04-08">1868-04-08</date>
+      <settlement key="53286">
+        <placeName type="pref">Saint-Étienne-du-Rouvray</placeName>
+        <location><geo>49,37794 1,10467</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1940-01-18">1940-01-18</date>
+      <settlement key="182">
+        <placeName type="pref">Paris</placeName>
+        <location><geo>48,85341 2,3488</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="116">Übersetzer/Übersetzerin</occupation>
+  <occupation key="370">Dichter/Dichterin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/117323896</idno>
+  <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17744</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2206</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2206</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2206</idno>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+</listBibl>
+</person>
+
+<person xml:id="person__2207">
+  <persName>
+      <forename>Gustav</forename>
+      <surname>Davis</surname>
+  </persName>
+  <persName type="geburtsname_nachname">David</persName>
+  <persName type="legacy-name-merge">Davis, Gustav</persName>
+  <birth>
+    <date when-iso="1856-03-03">03.03.1856</date>
+      <settlement key="39615">
+        <placeName type="pref">Bratislava</placeName>
+        <location><geo>48,14816 17,10674</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1951-08-21">21.08.1951</date>
+      <settlement key="42465">
+        <placeName type="pref">Hollenstein an der Ybbs</placeName>
+        <location><geo>47,80305 14,77312</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="99">Journalist/Journalistin</occupation>
+  <occupation key="119">Herausgeber/Herausgeberin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116040718</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2207</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2207</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14365</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2207</idno>
+</person>
+
+<person xml:id="person__2211">
+  <persName>
+      <forename>André</forename>
+      <surname>Antoine</surname>
+  </persName>
+  <persName type="legacy-name-merge">Antoine, André Leonhard</persName>
+  <birth>
+    <date when-iso="1858-01-31">31.01.1858</date>
+      <settlement key="47377">
+        <placeName type="pref">Limoges</placeName>
+        <location><geo>45,83362 1,24759</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1943-10-23">23.10.1943</date>
+      <settlement key="53788">
+        <placeName type="pref">Le Pouliguen</placeName>
+        <location><geo>47,27187 -2,43319</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="103">Theaterleiter/Theaterleiterin</occupation>
+  <occupation key="105">Schauspieler/Schauspielerin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118649663</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2211</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2211</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13228</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2211</idno>
+<affiliation notBefore-iso="1888-01-01" when-iso="1888-07-01" notAfter-iso="1888-12-31">
+    <term key="1182">arbeitet für</term>
+    <orgName key="88609">Théâtre Libre</orgName>
+    <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88609/</idno>
+</affiliation>
+<affiliation notBefore-iso="1897-01-01" when-iso="1897-07-02" notAfter-iso="1897-12-31">
+    <term key="1409">ist Eigentümer*in von</term>
+    <orgName key="88613">Théâtre Antoine</orgName>
+    <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88613/</idno>
+</affiliation>
+<listEvent>
+    <event key="44739" when-iso="1903-11-07">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Premiere von Le Perroquet Vert, 7.11.1903</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/44739/</idno>
+    </event>
+</listEvent>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+</listBibl>
+</person>
+
+<person xml:id="person__2216">
+  <persName>
+      <forename>Norbert von</forename>
+      <surname>Ortner-Rodenstätt</surname>
+  </persName>
+  <birth>
+    <date when-iso="1865-08-10">10.08.1865</date>
+      <settlement key="332">
+        <placeName type="pref">Linz</placeName>
+        <location><geo>48,3 14,28333</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1935-03-01">01.03.1935</date>
+      <settlement key="30">
+        <placeName type="pref">Salzburg</placeName>
+        <location><geo>47,80067 13,04532</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="97">Mediziner/Medizinerin</occupation>
+  <occupation key="120">Mediziner/Medizinerin &gt;&gt; Internist/Internistin</occupation>
+  <occupation key="121">Mediziner/Medizinerin &gt;&gt; Kardiologe/Kardiologin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/117149721</idno>
+  <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18584</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2216</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2216</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2216</idno>
+</person>
+
+<person xml:id="person__2219">
+  <persName>
+      <forename>Edgar von</forename>
+      <surname>Karg-Bebenburg</surname>
+  </persName>
+  <birth>
+    <date when-iso="1872-12-22">22.12.1872</date>
+  </birth>  
+  <death>
+    <date when-iso="1905-06-23">23.06.1905</date>
+      <settlement key="30">
+        <placeName type="pref">Salzburg</placeName>
+        <location><geo>47,80067 13,04532</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="619">Militär/Militärin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/12061278X</idno>
+  <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16717</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2219</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2219</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2219</idno>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+</listBibl>
+</person>
+
+<person xml:id="person__2221">
+  <persName>
+      <forename>Elvira Leontine</forename>
+      <surname>Hervay von Kirchberg</surname>
+  </persName>
+  <persName type="geburtsname_nachname">Bellachini</persName>
+  <persName type="rufname">Tamara</persName>
+  <persName type="ehename">von Lützow</persName>
+  <persName type="ehename">Kunz</persName>
+  <persName type="ehename">Meurin</persName>
+  <persName type="loschen">Bellachini</persName>
+  <persName type="legacy-name-merge">Hervay-Kirchberg, Elvira Leontine von</persName>
+  <birth>
+    <date when-iso="1860-07-18">18.07.1860</date>
+      <settlement key="44282">
+        <placeName type="pref">Poznan</placeName>
+        <location><geo>52,40692 16,92993</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1929-01-01">nach 1929&lt;1929-01-01&gt;</date>
+  </death>
+  <sex value="female"/>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/112456716X</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2221</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2221</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16138</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2221</idno>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+</listBibl>
+</person>
+
+<person xml:id="person__2226">
+  <persName>
+      <surname>W. Fred</surname>
+  </persName>
+  <persName type="geburtsname_vorname">Alfred</persName>
+  <persName type="geburtsname_nachname">Wechsler</persName>
+  <persName type="loschen">Fred W. A.</persName>
+  <persName type="pseudonym">W. Fred</persName>
+  <persName type="uri_gnd">http://d-nb.info/gnd/1133289797</persName>
+  <persName type="legacy-name-merge">Wechsler, Alfred</persName>
+  <birth>
+    <date when-iso="1879-06-29">29.06.1879</date>
+      <settlement key="50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48,2066 16,37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1922-10-23">23.10.1922</date>
+      <settlement key="168">
+        <placeName type="pref">Berlin</placeName>
+        <location><geo>52,52437 13,41053</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <occupation key="99">Journalist/Journalistin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/11674748X</idno>
+  <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15158</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2226</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2226</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2226</idno>
+  <idno type="URL">https://schnitzler-lektueren.acdh.oeaw.ac.at/pmb2226.html</idno>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+</listBibl>
+</person>
+
+<person xml:id="person__2229">
+  <persName>
+      <forename>Willi</forename>
+      <surname>Handl</surname>
+  </persName>
+  <persName type="loschen">X</persName>
+  <persName type="geburtsname_vorname">Siegmund Wilhelm</persName>
+  <persName type="namensvariante">Handel</persName>
+  <persName type="legacy-name-merge">Handl, Willi</persName>
+  <birth>
+    <date when-iso="1872-02-12">12.2.1872</date>
+      <settlement key="50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48,2066 16,37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1920-05-26">26.5.1920</date>
+      <settlement key="168">
+        <placeName type="pref">Berlin</placeName>
+        <location><geo>52,52437 13,41053</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <occupation key="99">Journalist/Journalistin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116445599</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2229</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2229</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15898</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2229</idno>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+</listBibl>
+</person>
+
+<person xml:id="person__2232">
+  <persName>
+      <forename>Hans</forename>
+      <surname>Pagay</surname>
+  </persName>
+  <birth>
+    <date when-iso="1843-11-11">1843-11-11</date>
+      <settlement key="50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48,2066 16,37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1915-01-21">1915-01-21</date>
+      <settlement key="168">
+        <placeName type="pref">Berlin</placeName>
+        <location><geo>52,52437 13,41053</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="105">Schauspieler/Schauspielerin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116015454</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2232</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2232</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2232</idno>
+<listEvent>
+    <event key="35170" when-iso="1905-06-05">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Premiere von Sanna, 5.6.1906</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35170</idno>
+    </event>
+    <event key="46453" when-iso="1889-10-20">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Uraufführung von Vor Sonnenaufgang, 20.10.1889</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/46453/</idno>
+    </event>
+</listEvent>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+</listBibl>
+</person>
+
+<person xml:id="person__2235">
+  <persName>
+      <forename>Richard</forename>
+      <surname>Vallentin</surname>
+  </persName>
+  <birth>
+    <date when-iso="1874-02-03">03.02.1874</date>
+      <settlement key="967">
+        <placeName type="pref">Luzern</placeName>
+        <location><geo>47,05048 8,30635</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1908-01-14">14.01.1908</date>
+      <settlement key="168">
+        <placeName type="pref">Berlin</placeName>
+        <location><geo>52,52437 13,41053</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="104">Regisseur/Regisseurin</occupation>
+  <occupation key="105">Schauspieler/Schauspielerin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/117341622</idno>
+  <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20914</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2235</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2235</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2235</idno>
+<listEvent>
+    <event key="35482" when-iso="1899-04-29">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Premiere von Der grüne Kakadu – Paracelsus – Die Gefährtin. Drei Einakter, 29.4.1899</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35482</idno>
+    </event>
+    <event key="35152" when-iso="1896-11-03">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Uraufführung von Freiwild. Schauspiel in 3 Akten, 3.11.1896</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35152</idno>
+    </event>
+</listEvent>
+</person>
+
+<person xml:id="person__2238">
+  <persName>
+      <forename>Lili</forename>
+      <surname>Schnitzler</surname>
+  </persName>
+  <persName type="ehename">Cappellini</persName>
+  <persName type="geburtsname_nachname">Schnitzler</persName>
+  <persName type="legacy-name-merge">Cappellini, Lili</persName>
+  <birth>
+    <date when-iso="1909-09-13">13.09.1909</date>
+      <settlement key="50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48,2066 16,37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1928-07-26">26.07.1928</date>
+      <settlement key="462">
+        <placeName type="pref">Venedig</placeName>
+        <location><geo>45,43713 12,33265</geo></location>
+      </settlement>
+  </death>
+  <sex value="female"/>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/131362089</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2238</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2238</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14130</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2238</idno>
+<listEvent>
+    <event key="48195" when-iso="1922-09-16">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Aufführung von Dame Kobold, 16.9.1922</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/48195/</idno>
+    </event>
+    <event key="59579" when-iso="1925-11-14">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Der einsame Weg, 14.11.1925</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/59579/</idno>
+    </event>
+</listEvent>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+</listBibl>
+</person>
+
+<person xml:id="person__2241">
+  <persName>
+      <forename>Oskar</forename>
+      <surname>Bacher</surname>
+  </persName>
+  <sex value="male"/>
+  <occupation key="126">Ingenieur/Ingenieurin &gt;&gt; Oberingenieur/Oberingenieurin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1123663173</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2241</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2241</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2241</idno>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+</listBibl>
+</person>
+
+<person xml:id="person__2242">
+  <persName>
+      <forename>Cesare</forename>
+      <surname>Levi</surname>
+  </persName>
+  <persName type="uri_wikipedia">https://it.wikipedia.org/wiki/Cesare_Levi</persName>
+  <birth>
+    <date when-iso="1874-01-01">1874</date>
+      <settlement key="873">
+        <placeName type="pref">Triest</placeName>
+        <location><geo>45,66667 13,76667</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1926-07-18">18.07.1926</date>
+      <settlement key="46965">
+        <placeName type="pref">Sand in Taufers</placeName>
+        <location><geo>46,90844 11,96036</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="99">Journalist/Journalistin</occupation>
+  <occupation key="116">Übersetzer/Übersetzerin</occupation>
+  <occupation key="127">Theaterkritiker/Theaterkritikerin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/1055141987</idno>
+  <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17482</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2242</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2242</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2242</idno>
+</person>
+
+<person xml:id="person__2246">
+  <persName>
+      <forename>Robert von</forename>
+      <surname>Balajthy</surname>
+  </persName>
+  <birth>
+    <date when-iso="1855-10-30">30.10.1855</date>
+      <settlement key="50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48,2066 16,37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1924-08-30">30.08.1924</date>
+      <settlement key="50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48,2066 16,37341</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="105">Schauspieler/Schauspielerin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/143866354</idno>
+  <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13383</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2246</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2246</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2246</idno>
+<listEvent>
+    <event key="35251" when-iso="1910-11-24">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Uraufführung von Der junge Medardus, 24.11.1910</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35251</idno>
+    </event>
+    <event key="88534" when-iso="1911-10-14">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Premiere von Das weite Land, 14.10.1911 [I.]</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35364</idno>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88534/</idno>
+    </event>
+</listEvent>
+</person>
+
+<person xml:id="person__2249">
+  <persName>
+      <forename>Arnold</forename>
+      <surname>Korff</surname>
+  </persName>
+  <persName type="geburtsname_nachname">Kirsch</persName>
+  <persName type="uri_wikipedia">https://de.wikipedia.org/wiki/Arnold_Korff</persName>
+  <birth>
+    <date when-iso="1868-08-02">02.08.1868</date>
+      <settlement key="50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48,2066 16,37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1944-06-02">02.06.1944</date>
+      <settlement key="44053">
+        <placeName type="pref">New York City</placeName>
+        <location><geo>40,71427 -74,00597</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="105">Schauspieler/Schauspielerin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/101334071X</idno>
+  <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17046</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2249</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2249</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2249</idno>
+<listEvent>
+    <event key="42714" when-iso="1905-05-29">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Geschlossene Aufführung Die Büchse der Pandora, 29.5.1905</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/42714/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/42714</idno>
+    </event>
+    <event key="43248" when-iso="1899-11-25">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Aufführung von Liebelei, 25.11.1899</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43248/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/43248</idno>
+    </event>
+    <event key="35173" when-iso="1905-10-12">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Uraufführung von Zwischenspiel, 12.10.1905</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35173</idno>
+    </event>
+    <event key="88534" when-iso="1911-10-14">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Premiere von Das weite Land, 14.10.1911 [I.]</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35364</idno>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/88534/</idno>
+    </event>
+    <event key="62220" when-iso="1923-04-16">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Aufführung Das weite Land, 16.4.1923</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/62220/</idno>
+    </event>
+</listEvent>
+</person>
+
+<person xml:id="person__2252">
+  <persName>
+      <forename>Lotte</forename>
+      <surname>Medelsky</surname>
+  </persName>
+  <persName type="geburtsname_vorname">Karoline</persName>
+  <persName type="ehename">Frank</persName>
+  <persName type="namensvariante">Krauspe Charlotte Caroline</persName>
+  <persName type="legacy-name-merge">Medelsky, Lotte</persName>
+  <birth>
+    <date when-iso="1880-05-18">18.05.1880</date>
+      <settlement key="50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48,2066 16,37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1960-12-04">1960-12-04</date>
+      <settlement key="42901">
+        <placeName type="pref">Nussdorf am Attersee</placeName>
+        <location><geo>47,88333 13,51667</geo></location>
+      </settlement>
+  </death>
+  <sex value="female"/>
+  <occupation key="105">Schauspieler/Schauspielerin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116525614</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2252</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2252</idno>
+  <idno type="URL" subtype="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18035</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2252</idno>
+<listEvent>
+    <event key="42893" when-iso="1898-05-16">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Uraufführung von Mädchentraum, 16.5.1898</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/42893/</idno>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/42893</idno>
+    </event>
+    <event key="45154" when-iso="1899-03-18">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Wiener Uraufführung Der Abenteurer und die Sängerin und Die Hochzeit der Sobeide, 18.3.1899</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/45154/</idno>
+    </event>
+    <event key="46933" when-iso="1910-09-15">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Premiere von Die Tochter der Semiramis, Liebelei, 15.9.1910</label>
+        <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/46933/</idno>
+    </event>
+    <event key="35251" when-iso="1910-11-24">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Uraufführung von Der junge Medardus, 24.11.1910</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35251</idno>
+    </event>
+    <event key="35385" when-iso="1898-11-30">
+        <desc n="1256">ist Arbeitskraft bei</desc>
+        <label>Premiere von Das Vermächtnis, 30.11.1898</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35385</idno>
+    </event>
+</listEvent>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+</listBibl>
+</person>
+
+<person xml:id="person__2256">
+  <persName>
+      <forename>Fritz</forename>
+      <surname>Strassni</surname>
+  </persName>
+  <birth>
+    <date when-iso="1868-12-14">14.12.1868</date>
+      <settlement key="50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48,2066 16,37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1942-09-14">14.09.1942</date>
+      <settlement key="2258">
+        <placeName type="pref">Konzentrationslager Theresienstadt</placeName>
+        <location><geo>50,513639 14,164694</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="105">Schauspieler/Schauspielerin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/117308668</idno>
+  <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20482</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2256</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2256</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2256</idno>
+</person>
+
+<person xml:id="person__2260">
+  <persName>
+      <forename>Georg</forename>
+      <surname>Engländer</surname>
+  </persName>
+  <birth>
+    <date when-iso="1862-04-03">03.04.1862</date>
+      <settlement key="50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48,2066 16,37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1927-04-10">10.04.1927</date>
+      <settlement key="50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48,2066 16,37341</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="128">Beamter/Beamte &gt;&gt; Privatbeamter/Privatbeamtin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/13014522X</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2260</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2260</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2260</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/personen/pmb2260</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</person>
+
+<person xml:id="person__2263">
+  <persName>
+      <forename>Karl von</forename>
+      <surname>Lilienthal</surname>
+  </persName>
+  <birth>
+    <date when-iso="1853-08-31">31.08.1853</date>
+      <settlement key="903">
+        <placeName type="pref">Elberfeld</placeName>
+        <location><geo>51,25083 7,14816</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1927-11-08">08.11.1927</date>
+      <settlement key="882">
+        <placeName type="pref">Heidelberg</placeName>
+        <location><geo>49,40768 8,69079</geo></location>
+      </settlement>
+  </death>
+  <sex value="not-set"/>
+  <occupation key="102">Wissenschaftler/Wissenschaftlerin &gt;&gt; Rechtswissenschaftler/Rechtswissenschaftlerin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118834193</idno>
+  <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17549</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2263</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2263</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2263</idno>
+</person>
+
+<person xml:id="person__2266">
+  <persName>
+      <forename>Mathilde</forename>
+      <surname>Wesendonck</surname>
+  </persName>
+  <persName type="geburtsname_vorname">Agnes</persName>
+  <persName type="geburtsname_nachname">Luckemeyer</persName>
+  <persName type="geburtsname_nachname">Luckemeyer</persName>
+  <persName type="legacy-name-merge">Wesendonk, Mathilde</persName>
+  <birth>
+    <date when-iso="1828-12-23">23.12.1828</date>
+      <settlement key="903">
+        <placeName type="pref">Elberfeld</placeName>
+        <location><geo>51,25083 7,14816</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1902-08-31">31.08.1902</date>
+      <settlement key="47963">
+        <placeName type="pref">Altmünster</placeName>
+        <location><geo>47,90092 13,76415</geo></location>
+      </settlement>
+  </death>
+  <sex value="female"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/118767267</idno>
+  <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21271</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2266</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2266</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/27011</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2266</idno>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+</listBibl>
+</person>
+
+<person xml:id="person__2270">
+  <persName>
+      <forename>Arthur Johannes</forename>
+      <surname>Scholz</surname>
+  </persName>
+  <birth>
+    <date when-iso="1883-11-16">16.11.1883</date>
+      <settlement key="46224">
+        <placeName type="pref">Lviv</placeName>
+        <location><geo>49,83826 24,02324</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1945-04-03">03.04.1945</date>
+      <settlement key="50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48,2066 16,37341</geo></location>
+      </settlement>
+  </death>
+  <sex value="not-set"/>
+  <occupation key="129">Komponist/Komponistin</occupation>
+  <occupation key="130">Musikpädagoge/Musikpädagogin</occupation>
+  <occupation key="131">Dirigent/Dirigentin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/135051223</idno>
+  <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19860</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2270</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2270</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2270</idno>
+</person>
+
+<person xml:id="person__2273">
+  <persName>
+      <forename>Margarethe</forename>
+      <surname>Kainz</surname>
+  </persName>
+  <persName type="geburtsname_nachname">Nathanson</persName>
+  <persName type="namensvariante">Nansen</persName>
+  <persName type="rufname">Grete</persName>
+  <birth>
+    <date when-iso="1858-12-13">13.12.1858</date>
+      <settlement key="168">
+        <placeName type="pref">Berlin</placeName>
+        <location><geo>52,52437 13,41053</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1950-02-12">12.02.1950</date>
+      <settlement key="50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48,2066 16,37341</geo></location>
+      </settlement>
+  </death>
+  <sex value="female"/>
+  <occupation key="105">Schauspieler/Schauspielerin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116026324</idno>
+  <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16647</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2273</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2273</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2273</idno>
+</person>
+
+<person xml:id="person__2276">
+  <persName>
+      <forename>Scofield</forename>
+      <surname>Thayer</surname>
+  </persName>
+  <birth>
+    <date when-iso="1889-12-12">12.12.1889</date>
+      <settlement key="2277">
+        <placeName type="pref">Worcester</placeName>
+        <location><geo>42,271389 -71,79888</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1982-07-09">09.07.1982</date>
+      <settlement key="53796">
+        <placeName type="pref">Edgartown</placeName>
+        <location><geo>41,38901 -70,51336</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="99">Journalist/Journalistin</occupation>
+  <occupation key="119">Herausgeber/Herausgeberin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/119282062</idno>
+  <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20692</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2276</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2276</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2276</idno>
+</person>
+
+<person xml:id="person__2281">
+  <persName>
+      <forename>Paula</forename>
+      <surname>Dehmel</surname>
+  </persName>
+  <persName type="geburtsname_nachname">Oppenheimer</persName>
+  <persName type="geburtsname_vorname">Pauline</persName>
+  <birth>
+    <date when-iso="1862-12-31">1862-12-31</date>
+      <settlement key="168">
+        <placeName type="pref">Berlin</placeName>
+        <location><geo>52,52437 13,41053</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1918-07-08">1918-07-08</date>
+      <settlement key="168">
+        <placeName type="pref">Berlin</placeName>
+        <location><geo>52,52437 13,41053</geo></location>
+      </settlement>
+  </death>
+  <sex value="female"/>
+  <occupation key="90">Schriftsteller/Schriftstellerin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/116054522</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2281</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2281</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2281</idno>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+</listBibl>
+</person>
+
+<person xml:id="person__2284">
+  <persName>
+      <forename>Markus</forename>
+      <surname>Hajek</surname>
+  </persName>
+  <birth>
+    <date when-iso="1861-11-25">25.11.1861</date>
+      <settlement key="46727">
+        <placeName type="pref">Vršac</placeName>
+        <location><geo>45,11667 21,30361</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1941-04-04">04.04.1941</date>
+      <settlement key="224">
+        <placeName type="pref">London</placeName>
+        <location><geo>51,50853 -0,12574</geo></location>
+      </settlement>
+  </death>
+  <sex value="male"/>
+  <occupation key="97">Mediziner/Medizinerin</occupation>
+  <occupation key="132">Mediziner/Medizinerin &gt;&gt; Laryngologe/Laryngologin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/143163604</idno>
+  <idno type="URL" subtype="astb">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15855</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2284</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2284</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2284</idno>
+<affiliation>
+    <term key="1409">ist Eigentümer*in von</term>
+    <orgName key="29626">Die Zeit</orgName>
+    <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29626</idno>
+    <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/29626</idno>
+    <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29626</idno>
+    <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb29626</idno>
+</affiliation>
+<listEvent>
+    <event key="35113" when-iso="1904-12-12">
+        <desc n="1370">teilgenommen an</desc>
+        <label>Premiere von Literatur, Die letzten Masken, Der Puppenspieler, 12.12.1904</label>
+        <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/35113</idno>
+    </event>
+</listEvent>
+</person>
+
+<person xml:id="person__2288">
+  <persName>
+      <forename>Alfred</forename>
+      <surname>Deutsch-German</surname>
+  </persName>
+  <birth>
+    <date when-iso="1870-09-27">1870-09-27</date>
+      <settlement key="50">
+        <placeName type="pref">Wien</placeName>
+        <location><geo>48,2066 16,37341</geo></location>
+      </settlement>
+  </birth>  
+  <death>
+    <date when-iso="1943-07-02" notAfter-iso="1943-12-31">1943</date>
+  </death>
+  <sex value="male"/>
+  <occupation key="99">Journalist/Journalistin</occupation>
+  <idno type="URL" subtype="gnd">https://d-nb.info/gnd/126052018</idno>
+  <idno type="URL">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2288</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/2288</idno>
+  <idno type="URL" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2288</idno>
+<listBibl>
+    <bibl type="collections" n="3">Manuell angelegt</bibl>
+</listBibl>
+</person>
+
+
+         </listPerson>
+      </body>
+  </text>
+</TEI>
