@@ -1,5 +1,6 @@
 import asyncio
 import time
+import os
 
 from aiohttp import ClientSession
 from time import perf_counter as timer
@@ -11,9 +12,13 @@ from .utils import get_urls
 
 async def get_entity(session, url, total_count, current):
     async with session.get(url) as resp:
-        mystr = await resp.text(encoding='utf-8')
-        html = "".join([s for s in mystr.splitlines(True) if s.strip()])
-        LOGGER.info(f"Fetched URL {current} of {total_count}")
+        try:
+            mystr = await resp.text(encoding='utf-8')
+            html = "".join([s for s in mystr.splitlines(True) if s.strip()])
+            LOGGER.info(f"Fetched URL {current} of {total_count}")
+        except Exception as e:
+            LOGGER.error(f"failed to process {url} due to {e}")
+            html = f"<item url='{url}'></item>"
         return html
 
 
@@ -21,6 +26,7 @@ async def main(apis_entity_name):
     start_time = timer()
     urls_to_fetch = get_urls(apis_entity_name)
     EXPORT_FILEPATH = get_export_filepath(apis_entity_name)
+    os.remove(EXPORT_FILEPATH)
 
     with open(EXPORT_FILEPATH, 'w', encoding="utf-8") as f:
         f.write(get_tei_header(apis_entity_name))
