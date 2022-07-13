@@ -4,7 +4,7 @@ from datetime import datetime
 
 
 # Base directory of project
-BASE_DIR = os.path.abspath(os.path.dirname(__file__))
+BASE_DIR = "."
 
 # Pagination Size
 BASE_LIMIT = "50"
