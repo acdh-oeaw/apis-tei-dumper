@@ -1,6 +1,5 @@
 import asyncio
 import time
-import os
 
 from aiohttp import ClientSession
 from time import perf_counter as timer
@@ -26,7 +25,6 @@ async def main(apis_entity_name):
     start_time = timer()
     urls_to_fetch = get_urls(apis_entity_name)
     EXPORT_FILEPATH = get_export_filepath(apis_entity_name)
-    os.remove(EXPORT_FILEPATH)
 
     with open(EXPORT_FILEPATH, 'w', encoding="utf-8") as f:
         f.write(get_tei_header(apis_entity_name))

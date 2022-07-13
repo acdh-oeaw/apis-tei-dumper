@@ -4,7 +4,8 @@ from datetime import datetime
 
 
 # Base directory of project
-BASE_DIR = "."
+BASE_DIR = os.path.abspath(os.path.dirname(__file__))
+EXPORT_DIR = os.path.join(BASE_DIR, 'export')
 
 # Pagination Size
 BASE_LIMIT = "50"
@@ -19,7 +20,7 @@ BASE_LIST_URL = "{}apis/api/entities/{}/?format=json&limit={}"
 TEI_URL = "{}apis/entities/tei/{}/"
 
 # Filepath to store dumped entities
-EXPORT_FILEPATH = "{}/export/list{}.xml"
+EXPORT_FILEPATH = "{}/list{}.xml"
 
 # Headers to be passed to async HTTP client session.
 HTTP_HEADERS = {
@@ -29,9 +30,9 @@ HTTP_HEADERS = {
 }
 
 ENT_DICT = {
-    'person': 'person',
-    'place': 'place',
-    'work': 'bibl',
+    # 'person': 'person',
+    # 'place': 'place',
+    # 'work': 'bibl',
     'institution': 'org'
 }
 if os.environ.get('LIMIT'):
@@ -83,8 +84,9 @@ def get_tei_endpoint(apis_entity_name, entity_id):
 
 
 def get_export_filepath(apis_entity_name):
+    os.makedirs(EXPORT_DIR, exist_ok=True)
     return EXPORT_FILEPATH.format(
-        BASE_DIR,
+        EXPORT_DIR,
         ENT_DICT[apis_entity_name]
     )
 
