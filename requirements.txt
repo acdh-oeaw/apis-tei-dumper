@@ -1,0 +1,4 @@
+aiohttp[speedups]
+asyncio
+loguru
+requests
