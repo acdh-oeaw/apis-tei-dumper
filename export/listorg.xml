@@ -1,0 +1,1162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+           <titleStmt>
+              <title>listorg.xml</title>
+           </titleStmt>
+           <publicationStmt>
+              <p>Publication Information</p>
+           </publicationStmt>
+           <sourceDesc>
+              <p>Information about the source</p>
+           </sourceDesc>
+        </fileDesc>
+       <revisionDesc>
+          <change when-iso="2022-07-13">serialized</change>
+       </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+           <p>Some text here.</p>
+           <listOrg>
+<org xml:id="org__36811">
+  <orgName>Gerichtskasse Berlin-Mitte</orgName>
+<location type="located_in_place">
+  <placeName key="place__36737">Mitte</placeName>
+  <geo>52,516669 13,366669</geo>
+  <note type="IDNO">https://d-nb.info/gnd/4248938-6</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/36737</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb36737</note>
+</location>
+<location type="located_in_place">
+  <placeName key="place__168">Berlin</placeName>
+  <geo>52,52437 13,41053</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2950159/</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb168</note>
+  <note type="IDNO">https://d-nb.info/gnd/4005728-8</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/168</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb168</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb168</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36811/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/36811</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__36869">
+  <orgName>Staatsanwaltschaft</orgName>
+  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Staatsanwaltschaft_(%C3%96sterreich)</orgName>
+<location type="located_in_place">
+  <placeName key="place__50">Wien</placeName>
+  <geo>48,2066 16,37341</geo>
+  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2761369/</note>
+  <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/2316/</note>
+  <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/20954/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4066009-6</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb50</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/50</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/2316</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/20954</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/65221/</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/65223/</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb50</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36869/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/36869</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb36869</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__36879">
+  <orgName>Strafkammer Nürnberg</orgName>
+  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Landgericht_N%C3%BCrnberg-F%C3%BCrth</orgName>
+<location type="located_in_place">
+  <placeName key="place__44172">Nürnberg</placeName>
+  <geo>49,45421 11,07752</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2861650/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4042742-0</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/1145</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/44172/</note>
+  <note type="IDNO">https://sws.geonames.org/2861650/</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb44172</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb44172</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36879/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/36879</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb36879</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__36887">
+  <orgName>Advokatenkammer für Böhmen</orgName>
+  <orgName type="uri_gnd">http://d-nb.info/gnd/10150484-6</orgName>
+<location type="located_in_place">
+  <placeName key="place__652">Prag</placeName>
+  <geo>50,08333 14,46667</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
+  <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
+  <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
+  <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43722/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4076310-9</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/652</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/7313</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/22214</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36887/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/36887</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb36887</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__36901">
+  <orgName>Alpine Montangesellschaft</orgName>
+<location type="located_in_place">
+  <placeName key="place__50">Wien</placeName>
+  <geo>48,2066 16,37341</geo>
+  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2761369/</note>
+  <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/2316/</note>
+  <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/20954/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4066009-6</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb50</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/50</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/2316</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/20954</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/65221/</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/65223/</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb50</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36901/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/36901</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb36901</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__36918">
+  <orgName>Arbeiterkammer Wien</orgName>
+  <orgName type="uri_gnd">http://d-nb.info/gnd/10150484-6</orgName>
+<location type="located_in_place">
+  <placeName key="place__54">IV., Wieden</placeName>
+  <geo>48,19198 16,36714</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2761393/</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/54</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb54</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb54</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36918/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/36918</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb36918</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__36927">
+  <orgName>Wiener Rechtsanwaltskammer</orgName>
+<location type="located_in_place">
+  <placeName key="place__50">Wien</placeName>
+  <geo>48,2066 16,37341</geo>
+  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2761369/</note>
+  <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/2316/</note>
+  <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/20954/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4066009-6</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb50</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/50</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/2316</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/20954</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/65221/</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/65223/</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb50</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36927/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/36927</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb36927</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__36929">
+  <orgName>Israelitische Kultusgemeinde Wien</orgName>
+  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Israelitische_Kultusgemeinde_Wien</orgName>
+  <orgName type="alternative-name">Wiener Israelitische Kultusgemeinde</orgName>
+  <orgName type="legacy-name-merge">Israelitische Kultusgemeinde Wien</orgName>
+<location type="located_in_place">
+  <placeName key="place__50">Wien</placeName>
+  <geo>48,2066 16,37341</geo>
+  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2761369/</note>
+  <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/2316/</note>
+  <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/20954/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4066009-6</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb50</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/50</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/2316</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/20954</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/65221/</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/65223/</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb50</note>
+</location>
+<location type="located_in_place">
+  <placeName key="place__51">I., Innere Stadt</placeName>
+  <geo>48,20769 16,37049</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2775259/</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36789/</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb51</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/51</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/36789/</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/51010/</note>
+  <note type="IDNO">https://sws.geonames.org/2775259/</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb51</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb51</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36929/</idno>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37153/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/36929</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37153</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb36929</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__36948">
+  <orgName>Budapester Notariatskammer</orgName>
+<location type="located_in_place">
+  <placeName key="place__43471">Budapest</placeName>
+  <geo>47,49835 19,04045</geo>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1781</note>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3054638/</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb464</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43471/</note>
+  <note type="IDNO">https://sws.geonames.org/3054643/</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43797/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4008684-7</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43471</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43797</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb43471</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb43471</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36948/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/36948</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb36948</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__36953">
+  <orgName>Vereinigung der deutschen Bühnenverleger</orgName>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36953/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/36953</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb36953</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__36980">
+  <orgName>Christlicher Bau-und Steinarbeiterverband</orgName>
+<location type="located_in_place">
+  <placeName key="place__36985">Wiesen</placeName>
+  <geo>47,74402 16,32431</geo>
+  <note type="IDNO">http://sws.geonames.org/7871580/</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/36985</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb36985</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36980/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/36980</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb36980</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__36981">
+  <orgName>Tschechoslowakisches Pressbüro</orgName>
+<location type="located_in_place">
+  <placeName key="place__38444">Tschechoslowakei</placeName>
+  <geo>50,08292 14,46672</geo>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q33946</note>
+  <note type="IDNO">http://sws.geonames.org/8505031/</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb38444</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/38444</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb38444</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb38444</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36981/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/36981</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb36981</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__36990">
+  <orgName>Christlicher Metallarbeiterverband</orgName>
+<location type="located_in_place">
+  <placeName key="place__37000">Schwäbisch Gmünd</placeName>
+  <geo>48,79947 9,79809</geo>
+  <note type="IDNO">http://sws.geonames.org/2835482/</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/37000</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb37000</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36990/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/36990</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb36990</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__37013">
+  <orgName>Deutsch-österreichischer Jugendbund</orgName>
+  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/%C3%96sterreichisches_Jungvolk</orgName>
+  <orgName type="namensvariante">Österreichisches Jungvolk</orgName>
+<location type="located_in_place">
+  <placeName key="place__50">Wien</placeName>
+  <geo>48,2066 16,37341</geo>
+  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2761369/</note>
+  <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/2316/</note>
+  <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/20954/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4066009-6</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb50</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/50</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/2316</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/20954</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/65221/</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/65223/</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb50</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37013/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37013</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb37013</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__37025">
+  <orgName>Telegraphendirektion für Wien, Niederösterreich und Burgenland</orgName>
+  <orgName type="uri_wien-geschichte-wiki">https://www.geschichtewiki.wien.gv.at/Post-_und_Telegraphendirektion</orgName>
+<location type="located_in_place">
+  <placeName key="place__53">III., Landstraße</placeName>
+  <geo>48,19811 16,39482</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2773040/</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36779/</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb53</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/53</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/36779</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/50527/</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/50528/</note>
+  <note type="IDNO">https://sws.geonames.org/2773040/</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb53</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb53</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37025/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37025</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb37025</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__37037">
+  <orgName>Stadthauptkasse Frankfurt am Main</orgName>
+<location type="located_in_place">
+  <placeName key="place__146">Frankfurt am Main</placeName>
+  <geo>50,11552 8,68417</geo>
+  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2925533/</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1794</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb146</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/146</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/46955/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4018118-2</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb146</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64181/</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64493/</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64501/</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64503/</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb146</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37037/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37037</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb37037</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__37064">
+  <orgName>Scholze (Klavierfabrik)</orgName>
+<location type="located_in_place">
+  <placeName key="place__53574">Jiříkov</placeName>
+  <geo>50,99286484599277 14,568609278877336</geo>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/53574/</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb53574</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37064/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37064</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb37064</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__37082">
+  <orgName>Deutschlandsberger  Papierfabrik</orgName>
+<location type="located_in_place">
+  <placeName key="place__37084">Deutschlandsberg</placeName>
+  <geo>46,82309 15,21068</geo>
+  <note type="IDNO">http://sws.geonames.org/7873347/</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/37084</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb37084</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37082/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37082</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb37082</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__37096">
+  <orgName>Engelsbergbund</orgName>
+  <orgName type="uri_gnd">http://d-nb.info/gnd/1162854111</orgName>
+<location type="located_in_place">
+  <placeName key="place__50">Wien</placeName>
+  <geo>48,2066 16,37341</geo>
+  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2761369/</note>
+  <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/2316/</note>
+  <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/20954/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4066009-6</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb50</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/50</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/2316</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/20954</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/65221/</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/65223/</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb50</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37096/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37096</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb37096</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__37099">
+  <orgName>Erste Prager Krankenversicherungsgesellschaft</orgName>
+<location type="located_in_place">
+  <placeName key="place__652">Prag</placeName>
+  <geo>50,08333 14,46667</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3067695/</note>
+  <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7313/</note>
+  <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/22214/</note>
+  <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/26227/</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb652</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43722/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4076310-9</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/652</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/7313</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/22214</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/26227</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43722</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb652</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb652</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37099/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37099</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb37099</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__37105">
+  <orgName>August Förster (Flügel- und Pianofabriken)</orgName>
+  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/August_F%C3%B6rster_(Unternehmen)</orgName>
+  <orgName type="loschen">löschen</orgName>
+<location type="located_in_place">
+  <placeName key="place__37108">Löbau</placeName>
+  <geo>51,09954 14,66738</geo>
+  <note type="IDNO">http://sws.geonames.org/2876755/</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/37108</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb37108</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37105/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37105</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb37105</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+<note type="apis_dates">
+<date when-iso="1859-04-01">1859-04-01</date>
+</note>
+</org>
+
+<org xml:id="org__37134">
+  <orgName>Rechtsanwaltskammer Hamm</orgName>
+<location type="located_in_place">
+  <placeName key="place__37137">Hamm</placeName>
+  <geo>51,68033 7,82089</geo>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37137/</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/37137</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb37137</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37134/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37134</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb37134</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__37135">
+  <orgName>Generalintendanz der Preußischen Staatstheater</orgName>
+  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Schauspielhaus_Berlin#Preu%C3%9Fisches_Staatstheater</orgName>
+<location type="located_in_place">
+  <placeName key="place__168">Berlin</placeName>
+  <geo>52,52437 13,41053</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2950159/</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb168</note>
+  <note type="IDNO">https://d-nb.info/gnd/4005728-8</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/168</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb168</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb168</note>
+</location>
+<location type="located_in_place">
+  <placeName key="place__56971">Oberwallstraße</placeName>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/56971/</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb56971</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37135/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37135</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb37135</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__37141">
+  <orgName>Rechtsanwaltskammer Dortmund</orgName>
+<location type="located_in_place">
+  <placeName key="place__915">Dortmund</placeName>
+  <geo>51,52444 7,47389</geo>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1295</note>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2935516/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4012814-3</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb915</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/915</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/39895</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb915</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37141/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37141</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb37141</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__37145">
+  <orgName>Rechtsanwaltskammer Berlin</orgName>
+<location type="located_in_place">
+  <placeName key="place__36737">Mitte</placeName>
+  <geo>52,516669 13,366669</geo>
+  <note type="IDNO">https://d-nb.info/gnd/4248938-6</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/36737</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb36737</note>
+</location>
+<location type="located_in_place">
+  <placeName key="place__57358">Schöneberger Ufer</placeName>
+  <geo>52,50565255020321 13,36984712719845</geo>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/57358/</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb57358</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37145/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37145</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb37145</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__37151">
+  <orgName>Eduard Hölzel (Geographisches Institut)</orgName>
+  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Eduard_H%C3%B6lzel</orgName>
+<location type="located_in_place">
+  <placeName key="place__54">IV., Wieden</placeName>
+  <geo>48,19198 16,36714</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2761393/</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/54</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb54</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb54</note>
+</location>
+<location type="located_in_place">
+  <placeName key="place__56371">Mommsengasse</placeName>
+  <geo>48,190095788638 16,377866072775</geo>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/56371/</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb56371</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37151/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37151</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb37151</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__37154">
+  <orgName>Postdirektion für Wien, Niederösterreich und Burgenland</orgName>
+<location type="located_in_place">
+  <placeName key="place__51">I., Innere Stadt</placeName>
+  <geo>48,20769 16,37049</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2775259/</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36789/</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb51</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/51</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/36789/</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/51010/</note>
+  <note type="IDNO">https://sws.geonames.org/2775259/</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb51</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb51</note>
+</location>
+<location type="located_in_place">
+  <placeName key="place__53648">Hetzgasse</placeName>
+  <geo>48,20863025214525 16,391119727082845</geo>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/53648/</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb53648</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37154/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37154</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb37154</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__37165">
+  <orgName>Österreichisches Generalkonsulat USA</orgName>
+<location type="located_in_place">
+  <placeName key="place__44053">New York City</placeName>
+  <geo>40,71427 -74,00597</geo>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb5199</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/5199</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/44053/</note>
+  <note type="IDNO">https://sws.geonames.org/5128581/</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb44053</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb44053</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37165/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37165</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb37165</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__37168">
+  <orgName>Österreichisches Generalkonsulat Athen</orgName>
+<location type="located_in_place">
+  <placeName key="place__505">Athen</placeName>
+  <geo>37,97945 23,71622</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/264371/</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1524</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb505</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/505</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb505</note>
+</location>
+<location type="located_in_place">
+  <placeName key="place__65570">Rue Alexandros</placeName>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/65570/</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb65570</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37168/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37168</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb37168</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__37171">
+  <orgName>Kammer für Handel und Gewerbe Oberösterreich</orgName>
+<location type="located_in_place">
+  <placeName key="place__332">Linz</placeName>
+  <geo>48,3 14,28333</geo>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q41329</note>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2772395/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4074255-6</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb332</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/332</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/38080</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb332</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb332</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37171/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37171</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb37171</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__37174">
+  <orgName>Österreichische Credit-Anstalt</orgName>
+  <orgName type="namensvariante">Österreichische Kreditanstalt</orgName>
+<location type="located_in_place">
+  <placeName key="place__51">I., Innere Stadt</placeName>
+  <geo>48,20769 16,37049</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2775259/</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36789/</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb51</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/51</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/36789/</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/51010/</note>
+  <note type="IDNO">https://sws.geonames.org/2775259/</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb51</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb51</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37174/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37174</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb37174</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__37180">
+  <orgName>Organisation der Wiener Journalisten</orgName>
+<location type="located_in_place">
+  <placeName key="place__50">Wien</placeName>
+  <geo>48,2066 16,37341</geo>
+  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2761369/</note>
+  <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/2316/</note>
+  <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/20954/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4066009-6</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb50</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/50</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/2316</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/20954</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/65221/</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/65223/</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb50</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37180/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37180</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb37180</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__37185">
+  <orgName>Kampfausschuß gegen die Zensur</orgName>
+<location type="located_in_place">
+  <placeName key="place__12562">Schöneberg</placeName>
+  <geo>52,483333 13,366667</geo>
+  <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/7654/</note>
+  <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/12562/</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36816/</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/7654</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/12562</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/36816</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64568/</note>
+  <note type="IDNO">https://sws.geonames.org/2836788/</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb12562</note>
+</location>
+<location type="located_in_place">
+  <placeName key="place__659">Bülowstraße</placeName>
+  <geo>52,49737 13,36385</geo>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb659</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/659</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb659</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb659</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37185/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37185</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb37185</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__37186">
+  <orgName>Oil Trade Association of New York</orgName>
+<location type="located_in_place">
+  <placeName key="place__44053">New York City</placeName>
+  <geo>40,71427 -74,00597</geo>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb5199</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/5199</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/44053/</note>
+  <note type="IDNO">https://sws.geonames.org/5128581/</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb44053</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb44053</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37186/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37186</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb37186</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__37189">
+  <orgName>Oberstadthauptmann Budapest</orgName>
+<location type="located_in_place">
+  <placeName key="place__43471">Budapest</placeName>
+  <geo>47,49835 19,04045</geo>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1781</note>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3054638/</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb464</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43471/</note>
+  <note type="IDNO">https://sws.geonames.org/3054643/</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43797/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4008684-7</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43471</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43797</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb43471</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb43471</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37189/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37189</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb37189</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__37193">
+  <orgName>Oberlaender Generalvertretung</orgName>
+<location type="located_in_place">
+  <placeName key="place__53">III., Landstraße</placeName>
+  <geo>48,19811 16,39482</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2773040/</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36779/</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb53</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/53</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/36779</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/50527/</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/50528/</note>
+  <note type="IDNO">https://sws.geonames.org/2773040/</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb53</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb53</note>
+</location>
+<location type="located_in_place">
+  <placeName key="place__827">Rennweg</placeName>
+  <geo>48,191762886817 16,390746059085</geo>
+  <note type="IDNO" subtype="wienwiki">https://pmb.acdh.oeaw.ac.at/entities:Rennweg</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb827</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/827</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb827</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37193/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37193</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb37193</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__37202">
+  <orgName>K. L. Köhler (Buchvertrieb)</orgName>
+  <orgName type="legacy-name-merge">K. L. Köhler (Buchvertrieb)</orgName>
+<location type="located_in_place">
+  <placeName key="place__864">Leipzig</placeName>
+  <geo>51,33962 12,37129</geo>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q2079</note>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2879139/</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb864</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/864</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/44885/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4035206-7</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb864</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb864</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37202/</idno>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37203/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37202</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37203</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb37202</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__37206">
+  <orgName>Niederösterreichische Rechtsanwaltskammer</orgName>
+  <orgName type="uri_wikipedia">https://de.wikipedia.org/wiki/Rechtsanwaltskammer_Niederösterreich</orgName>
+<location type="located_in_place">
+  <placeName key="place__49880">St. Pölten</placeName>
+  <geo>48,2 15,63333</geo>
+  <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/2939/</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/2939</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/49880/</note>
+  <note type="IDNO">https://sws.geonames.org/2766429/</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb49880</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37206/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37206</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb37206</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__37225">
+  <orgName>Mödendorfer</orgName>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37225/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37225</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb37225</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__37233">
+  <orgName>Laconia Institut</orgName>
+<location type="located_in_place">
+  <placeName key="place__50">Wien</placeName>
+  <geo>48,2066 16,37341</geo>
+  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2761369/</note>
+  <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/2316/</note>
+  <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/20954/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4066009-6</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb50</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/50</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/2316</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/20954</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/65221/</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/65223/</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb50</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37233/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37233</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb37233</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__37235">
+  <orgName>Mediterranean (Reisebüro)</orgName>
+<location type="located_in_place">
+  <placeName key="place__505">Athen</placeName>
+  <geo>37,97945 23,71622</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/264371/</note>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1524</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb505</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/505</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb505</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37235/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37235</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb37235</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__37289">
+  <orgName>Allgemeines österr. israel. Taubstummeninstitut</orgName>
+<location type="located_in_place">
+  <placeName key="place__50">Wien</placeName>
+  <geo>48,2066 16,37341</geo>
+  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2761369/</note>
+  <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/2316/</note>
+  <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/20954/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4066009-6</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb50</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/50</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/2316</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/20954</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/65221/</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/65223/</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb50</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37289/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37289</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb37289</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__37293">
+  <orgName>Altersfrauenheim Meidling</orgName>
+<location type="located_in_place">
+  <placeName key="place__62">XII., Meidling</placeName>
+  <geo>48,17192 16,32586</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2771704/</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb62</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/62</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb62</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb62</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37293/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37293</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb37293</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__37296">
+  <orgName>Altpensionisten der Bundestheater</orgName>
+<location type="located_in_place">
+  <placeName key="place__50">Wien</placeName>
+  <geo>48,2066 16,37341</geo>
+  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2761369/</note>
+  <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/2316/</note>
+  <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/20954/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4066009-6</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb50</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/50</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/2316</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/20954</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/65221/</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/65223/</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb50</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37296/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37296</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb37296</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__37301">
+  <orgName>Altrathaussaal</orgName>
+<location type="located_in_place">
+  <placeName key="place__51">I., Innere Stadt</placeName>
+  <geo>48,20769 16,37049</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2775259/</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/36789/</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb51</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/51</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/36789/</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/51010/</note>
+  <note type="IDNO">https://sws.geonames.org/2775259/</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb51</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb51</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37301/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37301</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb37301</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__37304">
+  <orgName>Amphithéatre Descartes, Sorbonne</orgName>
+<location type="located_in_place">
+  <placeName key="place__37308">Sorbonne</placeName>
+  <geo>48,84869 2,34363</geo>
+  <note type="IDNO">http://sws.geonames.org/6457252/</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/37308</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb37308</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37304/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37304</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb37304</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__37314">
+  <orgName>Amphithéâtre Michelet, Sorbonne</orgName>
+<location type="located_in_place">
+  <placeName key="place__37308">Sorbonne</placeName>
+  <geo>48,84869 2,34363</geo>
+  <note type="IDNO">http://sws.geonames.org/6457252/</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/37308</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb37308</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37314/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37314</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb37314</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__37323">
+  <orgName>Csütürtök</orgName>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37323/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37323</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb37323</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__37349">
+  <orgName>Hétföi Naplo</orgName>
+<location type="located_in_place">
+  <placeName key="place__43471">Budapest</placeName>
+  <geo>47,49835 19,04045</geo>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1781</note>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/3054638/</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb464</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43471/</note>
+  <note type="IDNO">https://sws.geonames.org/3054643/</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/43797/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4008684-7</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43471</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/43797</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb43471</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb43471</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37349/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37349</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb37349</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+<org xml:id="org__37351">
+  <orgName>Hetiujság</orgName>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/apis/api2/entity/37351/</idno>
+  <idno type="URL">https://pmb.acdh.oeaw.ac.at/entity/37351</idno>
+  <idno type="URL" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/institutionen/pmb37351</idno>
+<listBibl>
+    <bibl type="collections" n="5">legalkraus</bibl>
+</listBibl>
+</org>
+
+
+         </listOrg>
+      </body>
+  </text>
+</TEI>
