@@ -1,9 +1,8 @@
 import asyncio
+import time
+
 from aiohttp import ClientSession
 from time import perf_counter as timer
-
-
-import time
 from logger import LOGGER
 from config import HTTP_HEADERS, get_export_filepath, get_tei_header, get_tei_closer
 
@@ -41,8 +40,8 @@ async def main(apis_entity_name):
                 f.write(f"{ent}\n")
             f.write(get_tei_closer(apis_entity_name))
     LOGGER.success(
-        f"Executed {__name__} in {time.perf_counter() - start_time:0.2f} seconds."
+        f"Dumped {total_count} {apis_entity_name} entities in {time.perf_counter() - start_time:0.2f} seconds into {EXPORT_FILEPATH}."
     )
     LOGGER.success(
-        f"Executed {__name__} in {(time.perf_counter() - start_time)/60:0.2f} minutes."
+        f"Dumped {total_count} {apis_entity_name} entities in {(time.perf_counter() - start_time)/60:0.2f} minutes into {EXPORT_FILEPATH}."
     )
