@@ -7,8 +7,6 @@ jobs:
   download:
     name: Download Entities
     runs-on: ubuntu-latest
-    env:
-      LIMIT: TRUE
     steps:
     - uses: actions/checkout@v2
     - name: Set up Python 3.8
