@@ -30,10 +30,10 @@ HTTP_HEADERS = {
 }
 
 ENT_DICT = {
-    'person': 'person',
-    'place': 'place',
+    # 'person': 'person',
+    # 'place': 'place',
     'work': 'bibl',
-    'institution': 'org'
+    # 'institution': 'org'
 }
 if os.environ.get('LIMIT'):
     LIMIT = True
