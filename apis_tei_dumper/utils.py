@@ -17,6 +17,6 @@ def get_urls(apis_entity_name):
             next = data['next']
         for x in data['results']:
             url = get_tei_endpoint(apis_entity_name, x['id'])
-            LOGGER.info(f"adding {url}")
+            # LOGGER.info(f"adding {url}")
             urls.append(url)
     return urls
