@@ -1,3 +1,9 @@
+# this repo is archived
+
+replaced by https://github.com/arthur-schnitzler/pmb-service
+
+
+
 # apis-tei-dumper
 A async crawler to dump APIS-Entities as TEI
 
