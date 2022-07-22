@@ -13,7 +13,7 @@
            </sourceDesc>
         </fileDesc>
        <revisionDesc>
-          <change when-iso="2022-07-14">serialized</change>
+          <change when-iso="2022-07-22">serialized</change>
        </revisionDesc>
     </teiHeader>
     <text>
@@ -14489,6 +14489,34 @@
 </listBibl>
 </org>
 
+<org xml:id="org__89971">
+  <orgName>Eduard Trewendt</orgName>
+  <desc type="entity_type">Verlag</desc>
+  <desc type="entity_type_id">975</desc>
+<location type="located_in_place">
+  <placeName key="place__677">Breslau</placeName>
+  <geo>51,10773 17,03533</geo>
+  <note type="IDNO" subtype="wikidata">https://www.wikidata.org/wiki/Q1799</note>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/7531292/</note>
+  <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/29284/</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb677</note>
+  <note type="IDNO">https://d-nb.info/gnd/4008216-7</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/677</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/29284</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/41273</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb677</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/64155/</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb677</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/89971/</idno>
+<listBibl>
+    <bibl type="collections" n="8">manually created entity</bibl>
+</listBibl>
+<note type="apis_dates">
+<date notBefore-iso="1845-01-01" when-iso="1845-07-02">1845</date>
+</note>
+</org>
+
 <org xml:id="org__29204">
   <orgName>Marianische Männerkongregation</orgName>
   <desc type="entity_type">Verein &gt;&gt; Glaubensverein</desc>
@@ -15850,6 +15878,26 @@
 <note type="apis_dates">
 <date when-iso="1897-04-03">1897-04-03</date>
 </note>
+</org>
+
+<org xml:id="org__89961">
+  <orgName>Deutscher Quartettverein</orgName>
+  <desc type="entity_type">Verein &gt;&gt; Künstlervereinigung</desc>
+  <desc type="entity_type_id">983</desc>
+<location type="located_in_place">
+  <placeName key="place__182">Paris</placeName>
+  <geo>48,85341 2,3488</geo>
+  <note type="IDNO" subtype="geonames">http://sws.geonames.org/2988507/</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb182</note>
+  <note type="IDNO">https://d-nb.info/gnd/4044660-8</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/182</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb182</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb182</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/89961/</idno>
+<listBibl>
+    <bibl type="collections" n="8">manually created entity</bibl>
+</listBibl>
 </org>
 
 <org xml:id="org__29234">
@@ -18519,6 +18567,35 @@
 </listBibl>
 <note type="apis_dates">
 <date notBefore-iso="1899-01-01" when-iso="1899-07-02">1899</date>
+</note>
+</org>
+
+<org xml:id="org__90015">
+  <orgName>Wiener Salonblatt</orgName>
+  <desc type="entity_type">Wochenzeitungsredaktion</desc>
+  <desc type="entity_type_id">998</desc>
+<location type="located_in_place">
+  <placeName key="place__50">Wien</placeName>
+  <geo>48,2066 16,37341</geo>
+  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2761369/</note>
+  <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/2316/</note>
+  <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/20954/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4066009-6</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb50</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/50</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/2316</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/20954</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/65221/</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/65223/</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb50</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/90015/</idno>
+<listBibl>
+    <bibl type="collections" n="8">manually created entity</bibl>
+</listBibl>
+<note type="apis_dates">
+<date from-iso="1870-01-01" to-iso="1870-12-31">1870  – 1938</date>
 </note>
 </org>
 
@@ -28945,6 +29022,35 @@
 <listBibl>
     <bibl type="collections" n="5">legalkraus</bibl>
 </listBibl>
+</org>
+
+<org xml:id="org__90000">
+  <orgName>Deutsches Volksblatt</orgName>
+  <desc type="entity_type">Zeitungsredaktion</desc>
+  <desc type="entity_type_id">1039</desc>
+<location type="located_in_place">
+  <placeName key="place__50">Wien</placeName>
+  <geo>48,2066 16,37341</geo>
+  <note type="IDNO" subtype="geonames">https://sws.geonames.org/2761369/</note>
+  <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/2316/</note>
+  <note type="IDNO" subtype="apis-default">http://pmb.acdh.oeaw.ac.at/apis/api2/entity/20954/</note>
+  <note type="IDNO">https://d-nb.info/gnd/4066009-6</note>
+  <note type="IDNO">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb50</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/50</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/2316</note>
+  <note type="IDNO">https://pmb.acdh.oeaw.ac.at/entity/20954</note>
+  <note type="IDNO" subtype="schnitzler-briefeacdhoeawacat">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/65221/</note>
+  <note type="IDNO" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/65223/</note>
+  <note type="IDNO" subtype="krauswienbibliothekat">https://kraus.wienbibliothek.at/register/orte/pmb50</note>
+</location>
+  <idno type="URL" subtype="apis-default">https://pmb.acdh.oeaw.ac.at/entity/90000/</idno>
+<listBibl>
+    <bibl type="collections" n="8">manually created entity</bibl>
+</listBibl>
+<note type="apis_dates">
+<date from-iso="1889-01-01" to-iso="1889-12-31">1889  – 1922</date>
+</note>
 </org>
 
 <org xml:id="org__29761">
